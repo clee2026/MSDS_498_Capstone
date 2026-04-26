@@ -1,8 +1,1 @@
-* **Notebook 1 — Understand the data**
-  “I profiled the full 20M records to measure missing values, distributions, and data quality, then used that to decide which fields to keep instead of relying on the dictionary.”
 
-* **Notebook 2 — Prepare the data**
-  “I cleaned and standardized the selected fields and created key features like response time and same-day closure, using a representative sample so it runs efficiently.”
-
-* **Notebook 3 — Analyze and model**
-  “I used the full dataset for accurate counts and trends, and the sample for modeling to predict response time and same-day closure.”
