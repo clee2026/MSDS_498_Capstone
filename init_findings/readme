@@ -1,1 +1,13 @@
+## 30-Second Overview — NYC 311 Analysis Pipeline
 
+- **Notebook 1 — Understand the data**  
+  Full dataset (~20M records) was profiled to evaluate missing values, distributions, and data quality. Field selection was based on observed data behavior rather than relying solely on the data dictionary.
+
+- **Notebook 2 — Prepare the data**  
+  Selected fields were cleaned and standardized. Key features were created, including response time and same-day closure indicators. A representative sample was used to ensure efficient processing in Colab.
+
+- **Notebook 3 — Analyze and model**  
+  The full dataset was used for accurate aggregation (counts, trends), while the prepared sample was used for predictive modeling, including response time regression and same-day closure classification.
+
+**Summary**  
+The Option A report includes tables and visualizations that align directly with this pipeline and present the main findings.
