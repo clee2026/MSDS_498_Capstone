@@ -1,4 +1,4 @@
-# NYC 311 Complaint Categorization Project
+# NYC 311 Complaint Categorization
 
 ## NLP-Based Complaint Categorization
 
