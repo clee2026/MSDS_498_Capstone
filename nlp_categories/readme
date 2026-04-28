@@ -1,1 +1,8 @@
+Unstructured NYC 311 complaint text was transformed into structured, actionable categories using a two-step NLP approach.
+A representative sample was used to clean and combine key text fields, generate semantic embeddings, and cluster similar complaints. These clusters were reviewed and consolidated into business-relevant categories such as heating, noise, parking, sanitation, and infrastructure.
+The learned patterns were then applied to the full dataset using batch processing, assigning each record an issue category and producing an enriched dataset. A summary of category volume and share is provided in full_issue_category_counts.csv, which highlights the relative distribution of issue types across all records.
+To validate the transformation, a stratified sample of the enriched dataset was generated. This preview, available in sample_issue_category_preview.csv, displays original complaint fields alongside the assigned category, demonstrating how similar issues are consistently grouped while preserving record-level detail.
+This process converts raw text into a scalable, interpretable feature that supports analysis of complaint trends, service demand, and operational performance.
+
+
 
