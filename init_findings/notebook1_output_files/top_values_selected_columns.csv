@@ -1,0 +1,598 @@
+column_name,rank,value,count_in_sample,pct_in_sample
+address_type,1,ADDRESS,118108,78.7387
+address_type,2,INTERSECTION,9481,6.3207
+address_type,3,BLOCKFACE,1571,1.0473
+address_type,4,UNRECOGNIZED,507,0.338
+address_type,5,PLACE,132,0.088
+address_type,6,PLACENAME,97,0.0647
+agency,1,NYPD,64910,43.2733
+agency,2,HPD,30349,20.2327
+agency,3,DSNY,17173,11.4487
+agency,4,DOT,9963,6.642
+agency,5,DEP,7918,5.2787
+agency,6,DPR,5516,3.6773
+agency,7,DOB,4362,2.908
+agency,8,DOHMH,3594,2.396
+agency,9,DHS,1980,1.32
+agency,10,TLC,1324,0.8827
+agency,11,EDC,1276,0.8507
+agency,12,DCWP,815,0.5433
+agency,13,OSE,523,0.3487
+agency,14,DCA,188,0.1253
+agency,15,DOE,67,0.0447
+agency_name,1,New York City Police Department,64910,43.2733
+agency_name,2,Department of Housing Preservation and Development,30349,20.2327
+agency_name,3,Department of Sanitation,17173,11.4487
+agency_name,4,Department of Transportation,9963,6.642
+agency_name,5,Department of Environmental Protection,7918,5.2787
+agency_name,6,Department of Parks and Recreation,5516,3.6773
+agency_name,7,Department of Buildings,4362,2.908
+agency_name,8,Department of Health and Mental Hygiene,3594,2.396
+agency_name,9,Department of Homeless Services,1980,1.32
+agency_name,10,Taxi and Limousine Commission,1324,0.8827
+agency_name,11,Economic Development Corporation,1276,0.8507
+agency_name,12,Department of Consumer and Worker Protection,815,0.5433
+agency_name,13,Mayor's Office of Special Enforcement,523,0.3487
+agency_name,14,Department of Consumer Affairs,188,0.1253
+agency_name,15,Department of Education,67,0.0447
+bbl,1,2048330028,1201,0.8007
+bbl,2,2048330080,842,0.5613
+bbl,3,2048330028.0,515,0.3433
+bbl,4,4068290001,323,0.2153
+bbl,5,2031430130,183,0.122
+bbl,6,2048330083,117,0.078
+bbl,7,4068580001,116,0.0773
+bbl,8,2025110068,112,0.0747
+bbl,9,2048330027,106,0.0707
+bbl,10,3000680001,94,0.0627
+bbl,11,4142600001,90,0.06
+bbl,12,4068290001.0,88,0.0587
+bbl,13,2029020036,87,0.058
+bbl,14,1011110001,86,0.0573
+bbl,15,4067970040,81,0.054
+borough,1,BROOKLYN,44871,29.914
+borough,2,QUEENS,35796,23.864
+borough,3,BRONX,32298,21.532
+borough,4,MANHATTAN,30153,20.102
+borough,5,STATEN ISLAND,6337,4.2247
+borough,6,Unspecified,263,0.1753
+bridge_highway_direction,1,1 Downtown,33,0.022
+bridge_highway_direction,2,East/Long Island Bound,27,0.018
+bridge_highway_direction,3,North/Bronx Bound,26,0.0173
+bridge_highway_direction,4,East/Queens Bound,22,0.0147
+bridge_highway_direction,5,Southbound/Downtown,17,0.0113
+bridge_highway_direction,6,1 Uptown & The Bronx,15,0.01
+bridge_highway_direction,7,West/Staten Island Bound,14,0.0093
+bridge_highway_direction,8,6 Uptown & The Bronx,14,0.0093
+bridge_highway_direction,9,6 Downtown,14,0.0093
+bridge_highway_direction,10,North/Westchester County Bound,13,0.0087
+bridge_highway_direction,11,Manhattan Bound,12,0.008
+bridge_highway_direction,12,West/Brooklyn Bound,12,0.008
+bridge_highway_direction,13,South/Long Island Bound,9,0.006
+bridge_highway_direction,14,Southbound,8,0.0053
+bridge_highway_direction,15,Northbound/Uptown,8,0.0053
+bridge_highway_name,1,1,97,0.0647
+bridge_highway_name,2,R,71,0.0473
+bridge_highway_name,3,F,67,0.0447
+bridge_highway_name,4,6,61,0.0407
+bridge_highway_name,5,E,50,0.0333
+bridge_highway_name,6,Q,42,0.028
+bridge_highway_name,7,2,41,0.0273
+bridge_highway_name,8,A,39,0.026
+bridge_highway_name,9,J,38,0.0253
+bridge_highway_name,10,Belt Pkwy,31,0.0207
+bridge_highway_name,11,C,29,0.0193
+bridge_highway_name,12,N,27,0.018
+bridge_highway_name,13,FDR Dr,25,0.0167
+bridge_highway_name,14,D,25,0.0167
+bridge_highway_name,15,4,23,0.0153
+bridge_highway_segment,1,Platform,297,0.198
+bridge_highway_segment,2,Mezzanine,201,0.134
+bridge_highway_segment,3,Entrance,85,0.0567
+bridge_highway_segment,4,Stairway,47,0.0313
+bridge_highway_segment,5,Other,40,0.0267
+bridge_highway_segment,6,Passageway,29,0.0193
+bridge_highway_segment,7,Roadway,8,0.0053
+bridge_highway_segment,8,Ramp,8,0.0053
+bridge_highway_segment,9,Bikepath,4,0.0027
+bridge_highway_segment,10,Union Trnpke (Exit 22) - Cross Island Pkwy Winchester Blvd (Exit 23),3,0.002
+bridge_highway_segment,11,Bell Blvd Clearview Expwy (I-295) (Exit 33) - Northern Blvd (NY 25A) (Exit 31W),3,0.002
+bridge_highway_segment,12,Coney Is Ave (Exit 8),3,0.002
+bridge_highway_segment,13,E 34 St Midtown Tun (Exit 8) - E 42 St (Exit 9),3,0.002
+bridge_highway_segment,14,E 49 St (Exit 10) - Midtown Tun E 34 St (Exit 8),2,0.0013
+bridge_highway_segment,15,E 96 St (Exit 14) - RFK Bridge Bruckner Expwy Grand Central Pkwy (Exit 17),2,0.0013
+city,1,BROOKLYN,43051,28.7007
+city,2,BRONX,31191,20.794
+city,3,NEW YORK,27365,18.2433
+city,4,STATEN ISLAND,6031,4.0207
+city,5,JAMAICA,3024,2.016
+city,6,ASTORIA,2295,1.53
+city,7,FLUSHING,2052,1.368
+city,8,RIDGEWOOD,1647,1.098
+city,9,QUEENS,1393,0.9287
+city,10,CORONA,1320,0.88
+city,11,FRESH MEADOWS,1246,0.8307
+city,12,LONG ISLAND CITY,1037,0.6913
+city,13,FAR ROCKAWAY,1032,0.688
+city,14,ELMHURST,947,0.6313
+city,15,WOODSIDE,943,0.6287
+closed_date,1,2023-06-20T11:56:51.000,86,0.0573
+closed_date,2,2023-12-20T11:07:09.000,22,0.0147
+closed_date,3,2021-09-10T00:00:00.000,21,0.014
+closed_date,4,2020-08-26T00:00:00.000,20,0.0133
+closed_date,5,2020-06-11T00:00:00.000,20,0.0133
+closed_date,6,2021-07-28T00:00:00.000,19,0.0127
+closed_date,7,2020-10-20T00:00:00.000,18,0.012
+closed_date,8,2021-08-18T00:00:00.000,17,0.0113
+closed_date,9,2021-05-26T00:00:00.000,17,0.0113
+closed_date,10,2020-06-14T00:00:00.000,16,0.0107
+closed_date,11,2021-07-27T00:00:00.000,16,0.0107
+closed_date,12,2021-06-23T00:00:00.000,16,0.0107
+closed_date,13,2020-09-01T00:00:00.000,16,0.0107
+closed_date,14,2021-04-28T00:00:00.000,15,0.01
+closed_date,15,2021-03-27T00:00:00.000,15,0.01
+community_board,1,12 BRONX,5779,3.8527
+community_board,2,12 MANHATTAN,4782,3.188
+community_board,3,01 BROOKLYN,3779,2.5193
+community_board,4,04 BRONX,3708,2.472
+community_board,5,12 QUEENS,3659,2.4393
+community_board,6,05 BROOKLYN,3548,2.3653
+community_board,7,05 QUEENS,3478,2.3187
+community_board,8,01 QUEENS,3409,2.2727
+community_board,9,07 BRONX,3386,2.2573
+community_board,10,10 MANHATTAN,3381,2.254
+community_board,11,05 BRONX,3328,2.2187
+community_board,12,07 QUEENS,3257,2.1713
+community_board,13,03 BROOKLYN,3155,2.1033
+community_board,14,14 BROOKLYN,2923,1.9487
+community_board,15,07 MANHATTAN,2890,1.9267
+complaint_type,1,Illegal Parking,19078,12.7187
+complaint_type,2,Noise - Residential,17251,11.5007
+complaint_type,3,HEAT/HOT WATER,11885,7.9233
+complaint_type,4,Noise - Street/Sidewalk,7503,5.002
+complaint_type,5,Blocked Driveway,7017,4.678
+complaint_type,6,UNSANITARY CONDITION,4683,3.122
+complaint_type,7,Request Large Bulky Item Collection,4518,3.012
+complaint_type,8,Street Condition,3207,2.138
+complaint_type,9,Water System,2857,1.9047
+complaint_type,10,Noise - Commercial,2715,1.81
+complaint_type,11,Noise - Vehicle,2696,1.7973
+complaint_type,12,Abandoned Vehicle,2573,1.7153
+complaint_type,13,PLUMBING,2537,1.6913
+complaint_type,14,PAINT/PLASTER,2498,1.6653
+complaint_type,15,Noise,2310,1.54
+council_district,1,11,3782,2.5213
+council_district,2,10,3776,2.5173
+council_district,3,09,3689,2.4593
+council_district,4,15,3526,2.3507
+council_district,5,14,3518,2.3453
+council_district,6,12,3369,2.246
+council_district,7,03,3213,2.142
+council_district,8,35,3142,2.0947
+council_district,9,17,3091,2.0607
+council_district,10,16,2968,1.9787
+council_district,11,34,2932,1.9547
+council_district,12,33,2910,1.94
+council_district,13,40,2895,1.93
+council_district,14,36,2839,1.8927
+council_district,15,08,2764,1.8427
+created_date,1,2022-08-01T00:00:00.000,23,0.0153
+created_date,2,2026-02-01T00:00:00.000,12,0.008
+created_date,3,2020-11-05T12:00:00.000,4,0.0027
+created_date,4,2021-06-04T09:24:00.000,3,0.002
+created_date,5,2023-08-09T17:37:08.000,3,0.002
+created_date,6,2020-03-02T06:00:00.000,3,0.002
+created_date,7,2020-10-27T12:00:00.000,3,0.002
+created_date,8,2020-10-14T12:00:00.000,3,0.002
+created_date,9,2020-02-03T12:00:00.000,3,0.002
+created_date,10,2020-07-27T12:00:00.000,3,0.002
+created_date,11,2021-04-13T11:33:38.000,3,0.002
+created_date,12,2025-10-30T16:08:00.000,3,0.002
+created_date,13,2020-07-02T12:00:00.000,3,0.002
+created_date,14,2020-08-28T12:00:00.000,3,0.002
+created_date,15,2020-10-07T12:00:00.000,3,0.002
+cross_street_1,1,CARPENTER AVENUE,2937,1.958
+cross_street_1,2,BROADWAY,1359,0.906
+cross_street_1,3,5 AVENUE,1108,0.7387
+cross_street_1,4,3 AVENUE,1001,0.6673
+cross_street_1,5,BEND,868,0.5787
+cross_street_1,6,DEAD END,863,0.5753
+cross_street_1,7,AMSTERDAM AVENUE,766,0.5107
+cross_street_1,8,2 AVENUE,680,0.4533
+cross_street_1,9,8 AVENUE,636,0.424
+cross_street_1,10,7 AVENUE,466,0.3107
+cross_street_1,11,1 AVENUE,438,0.292
+cross_street_1,12,COLUMBUS AVENUE,424,0.2827
+cross_street_1,13,4 AVENUE,420,0.28
+cross_street_1,14,CENTRAL PARK WEST,419,0.2793
+cross_street_1,15,78 AVENUE,410,0.2733
+cross_street_2,1,LOWERRE PLACE,1848,1.232
+cross_street_2,2,BROADWAY,1173,0.782
+cross_street_2,3,DEAD END,1082,0.7213
+cross_street_2,4,WHITE PLAINS ROAD LINE,819,0.546
+cross_street_2,5,BEND,802,0.5347
+cross_street_2,6,2 AVENUE,675,0.45
+cross_street_2,7,3 AVENUE,609,0.406
+cross_street_2,8,1 AVENUE,549,0.366
+cross_street_2,9,9 AVENUE,510,0.34
+cross_street_2,10,AMSTERDAM AVENUE,490,0.3267
+cross_street_2,11,COLUMBUS AVENUE,422,0.2813
+cross_street_2,12,7 AVENUE,421,0.2807
+cross_street_2,13,RIVERSIDE DRIVE,420,0.28
+cross_street_2,14,8 AVENUE,402,0.268
+cross_street_2,15,BEDFORD AVENUE,396,0.264
+descriptor,1,Loud Music/Party,19964,13.3093
+descriptor,2,ENTIRE BUILDING,7777,5.1847
+descriptor,3,Blocked Hydrant,5652,3.768
+descriptor,4,No Access,5149,3.4327
+descriptor,5,Banging/Pounding,4904,3.2693
+descriptor,6,Request Large Bulky Item Collection,4518,3.012
+descriptor,7,Posted Parking Sign Violation,4499,2.9993
+descriptor,8,APARTMENT ONLY,4108,2.7387
+descriptor,9,Loud Talking,2700,1.8
+descriptor,10,With License Plate,2573,1.7153
+descriptor,11,PESTS,2473,1.6487
+descriptor,12,Blocked Sidewalk,2378,1.5853
+descriptor,13,Trash,2310,1.54
+descriptor,14,Derelict Vehicles,1972,1.3147
+descriptor,15,Pothole,1962,1.308
+descriptor_2,1,NO HEAT,6886,4.5907
+descriptor_2,2,NO HEAT AND NO HOT WATER,3171,2.114
+descriptor_2,3,NO HOT WATER,1924,1.2827
+descriptor_2,4,Location Type: Intersection,1755,1.17
+descriptor_2,5,AT WALL OR CEILING,1465,0.9767
+descriptor_2,6,BROKEN OR MISSING,1399,0.9327
+descriptor_2,7,MICE,1082,0.7213
+descriptor_2,8,Flying Too Low,976,0.6507
+descriptor_2,9,Operating Improperly,938,0.6253
+descriptor_2,10,Littering,910,0.6067
+descriptor_2,11,NM1,881,0.5873
+descriptor_2,12,ROACHES,836,0.5573
+descriptor_2,13,Not Cleaned by Property Owner,734,0.4893
+descriptor_2,14,Street Tree,703,0.4687
+descriptor_2,15,CHIPPED/PEELING/FLAKING,697,0.4647
+due_date,1,2021-06-12T09:40:37.000,21,0.014
+due_date,2,2022-09-28T09:29:09.000,17,0.0113
+due_date,3,2023-02-22T14:31:15.000,16,0.0107
+due_date,4,2022-06-01T10:15:29.000,14,0.0093
+due_date,5,2022-08-03T02:22:24.000,7,0.0047
+due_date,6,2024-03-28T02:22:24.000,5,0.0033
+due_date,7,2020-02-29T15:53:21.000,5,0.0033
+due_date,8,2022-08-15T02:22:23.000,4,0.0027
+due_date,9,2022-07-21T02:22:26.000,4,0.0027
+due_date,10,2022-01-13T10:28:37.000,4,0.0027
+due_date,11,2025-02-08T06:29:57.000,3,0.002
+due_date,12,2023-11-14T07:29:10.000,3,0.002
+due_date,13,2022-08-09T02:22:23.000,3,0.002
+due_date,14,2022-06-23T02:22:23.000,3,0.002
+due_date,15,2021-09-17T14:19:44.000,3,0.002
+facility_type,1,DSNY Garage,1624,1.0827
+incident_address,1,655 EAST  230 STREET,1694,1.1293
+incident_address,2,672 EAST  231 STREET,844,0.5627
+incident_address,3,78-15 PARSONS BOULEVARD,411,0.274
+incident_address,4,2176 TIEBOUT AVENUE,179,0.1193
+incident_address,5,82-68 164 STREET,161,0.1073
+incident_address,6,BROADWAY,157,0.1047
+incident_address,7,661 EAST  230 STREET,124,0.0827
+incident_address,8,1465 WASHINGTON AVENUE,120,0.08
+incident_address,9,957 WOODYCREST AVENUE,118,0.0787
+incident_address,10,674 EAST  231 STREET,117,0.078
+incident_address,11,191 UNION STREET,104,0.0693
+incident_address,12,177 SANDS STREET,99,0.066
+incident_address,13,5-47 50 AVENUE,99,0.066
+incident_address,14,3 AVENUE,94,0.0627
+incident_address,15,71-01 PARSONS BOULEVARD,87,0.058
+incident_zip,1,10466,3387,2.258
+incident_zip,2,11226,1929,1.286
+incident_zip,3,10467,1817,1.2113
+incident_zip,4,10457,1809,1.206
+incident_zip,5,10452,1708,1.1387
+incident_zip,6,11385,1705,1.1367
+incident_zip,7,10468,1692,1.128
+incident_zip,8,10458,1578,1.052
+incident_zip,9,10453,1563,1.042
+incident_zip,10,11207,1551,1.034
+incident_zip,11,10456,1507,1.0047
+incident_zip,12,11208,1441,0.9607
+incident_zip,13,11221,1414,0.9427
+incident_zip,14,10031,1369,0.9127
+incident_zip,15,11201,1276,0.8507
+intersection_street_1,1,CARPENTER AVENUE,2932,1.9547
+intersection_street_1,2,BROADWAY,1302,0.868
+intersection_street_1,3,5 AVENUE,1066,0.7107
+intersection_street_1,4,3 AVENUE,983,0.6553
+intersection_street_1,5,AMSTERDAM AVENUE,757,0.5047
+intersection_street_1,6,DEAD END,699,0.466
+intersection_street_1,7,2 AVENUE,660,0.44
+intersection_street_1,8,BEND,633,0.422
+intersection_street_1,9,8 AVENUE,618,0.412
+intersection_street_1,10,7 AVENUE,456,0.304
+intersection_street_1,11,1 AVENUE,430,0.2867
+intersection_street_1,12,COLUMBUS AVENUE,409,0.2727
+intersection_street_1,13,78 AVENUE,407,0.2713
+intersection_street_1,14,CENTRAL PARK WEST,406,0.2707
+intersection_street_1,15,4 AVENUE,391,0.2607
+intersection_street_2,1,LOWERRE PLACE,1846,1.2307
+intersection_street_2,2,BROADWAY,1070,0.7133
+intersection_street_2,3,DEAD END,861,0.574
+intersection_street_2,4,WHITE PLAINS ROAD LINE,816,0.544
+intersection_street_2,5,2 AVENUE,633,0.422
+intersection_street_2,6,3 AVENUE,573,0.382
+intersection_street_2,7,BEND,553,0.3687
+intersection_street_2,8,1 AVENUE,508,0.3387
+intersection_street_2,9,9 AVENUE,481,0.3207
+intersection_street_2,10,AMSTERDAM AVENUE,468,0.312
+intersection_street_2,11,COLUMBUS AVENUE,406,0.2707
+intersection_street_2,12,RIVERSIDE DRIVE,405,0.27
+intersection_street_2,13,7 AVENUE,378,0.252
+intersection_street_2,14,8 AVENUE,368,0.2453
+intersection_street_2,15,BEDFORD AVENUE,360,0.24
+landmark,1,EAST  230 STREET,1858,1.2387
+landmark,2,BROADWAY,1173,0.782
+landmark,3,EAST  231 STREET,1034,0.6893
+landmark,4,5 AVENUE,524,0.3493
+landmark,5,PARSONS BOULEVARD,478,0.3187
+landmark,6,7 AVENUE,461,0.3073
+landmark,7,3 AVENUE,458,0.3053
+landmark,8,GRAND CONCOURSE,388,0.2587
+landmark,9,8 AVENUE,383,0.2553
+landmark,10,WASHINGTON AVENUE,333,0.222
+landmark,11,2 AVENUE,316,0.2107
+landmark,12,AMSTERDAM AVENUE,313,0.2087
+landmark,13,1 AVENUE,263,0.1753
+landmark,14,PARK AVENUE,261,0.174
+landmark,15,ST NICHOLAS AVENUE,252,0.168
+latitude,1,40.89187241649303,1716,1.144
+latitude,2,40.89238451539139,844,0.5627
+latitude,3,40.72195913199264,411,0.274
+latitude,4,40.85443910241399,179,0.1193
+latitude,5,40.71724956934783,139,0.0927
+latitude,6,40.8315271048226,118,0.0787
+latitude,7,40.89236798554616,117,0.078
+latitude,8,40.64832048620134,108,0.072
+latitude,9,40.891820074685995,106,0.0707
+latitude,10,40.83694066292417,105,0.07
+latitude,11,40.68364302931577,104,0.0693
+latitude,12,40.74311637505655,99,0.066
+latitude,13,40.75666417742652,85,0.0567
+latitude,14,40.76468368198577,78,0.052
+latitude,15,40.72238703289527,74,0.0493
+location_type,1,Street/Sidewalk,41911,27.9407
+location_type,2,RESIDENTIAL BUILDING,30259,20.1727
+location_type,3,Residential Building/House,18492,12.328
+location_type,4,Street,13400,8.9333
+location_type,5,Sidewalk,11229,7.486
+location_type,6,Store/Commercial,2812,1.8747
+location_type,7,Above Address,1271,0.8473
+location_type,8,Park,1251,0.834
+location_type,9,Club/Bar/Restaurant,1193,0.7953
+location_type,10,3+ Family Apt. Building,812,0.5413
+location_type,11,Park/Playground,784,0.5227
+location_type,12,Business,716,0.4773
+location_type,13,Subway,702,0.468
+location_type,14,Restaurant/Bar/Deli/Bakery,552,0.368
+location_type,15,1-2 Family Dwelling,453,0.302
+longitude,1,-73.86016845296459,1716,1.144
+longitude,2,-73.8592161325675,844,0.5627
+longitude,3,-73.80969682426189,411,0.274
+longitude,4,-73.8984233658015,179,0.1193
+longitude,5,-73.80343340538089,139,0.0927
+longitude,6,-73.860009421079,124,0.0827
+longitude,7,-73.92886303221528,118,0.0787
+longitude,8,-73.85916553107027,117,0.078
+longitude,9,-73.78828125130184,108,0.072
+longitude,10,-73.90374441298103,105,0.07
+longitude,11,-74.00030286766025,104,0.0693
+longitude,12,-73.95606663802941,99,0.066
+longitude,13,-73.98361593748928,87,0.058
+longitude,14,-73.99019293432467,85,0.0567
+longitude,15,-73.92718359841146,78,0.052
+open_data_channel_type,1,ONLINE,61691,41.1273
+open_data_channel_type,2,PHONE,45463,30.3087
+open_data_channel_type,3,MOBILE,29867,19.9113
+open_data_channel_type,4,UNKNOWN,12974,8.6493
+open_data_channel_type,5,OTHER,5,0.0033
+park_borough,1,BROOKLYN,44871,29.914
+park_borough,2,QUEENS,35796,23.864
+park_borough,3,BRONX,32298,21.532
+park_borough,4,MANHATTAN,30153,20.102
+park_borough,5,STATEN ISLAND,6337,4.2247
+park_borough,6,Unspecified,263,0.1753
+park_facility_name,1,Unspecified,149049,99.366
+park_facility_name,2,Central Park,34,0.0227
+park_facility_name,3,Flushing Meadows Corona Park,22,0.0147
+park_facility_name,4,Prospect Park,15,0.01
+park_facility_name,5,Riverside Park,14,0.0093
+park_facility_name,6,Van Cortlandt Park,14,0.0093
+park_facility_name,7,Inwood Hill Park,14,0.0093
+park_facility_name,8,Franz Sigel Park,13,0.0087
+park_facility_name,9,"N, A",13,0.0087
+park_facility_name,10,Bronx Park,13,0.0087
+park_facility_name,11,Marcus Garvey Park,13,0.0087
+park_facility_name,12,Tompkins Square Park,12,0.008
+park_facility_name,13,Forest Park,10,0.0067
+park_facility_name,14,Leif Ericson Park,9,0.006
+park_facility_name,15,Ewen Park,8,0.0053
+police_precinct,1,Precinct 47,5784,3.856
+police_precinct,2,Precinct 44,3717,2.478
+police_precinct,3,Precinct 75,3561,2.374
+police_precinct,4,Precinct 104,3504,2.336
+police_precinct,5,Precinct 114,3445,2.2967
+police_precinct,6,Precinct 52,3387,2.258
+police_precinct,7,Precinct 46,3333,2.222
+police_precinct,8,Precinct 109,3201,2.134
+police_precinct,9,Precinct 34,2990,1.9933
+police_precinct,10,Precinct 70,2927,1.9513
+police_precinct,11,Unspecified,2874,1.916
+police_precinct,12,Precinct 43,2768,1.8453
+police_precinct,13,Precinct 67,2710,1.8067
+police_precinct,14,Precinct 107,2626,1.7507
+police_precinct,15,Precinct 102,2589,1.726
+resolution_action_updated_date,1,2023-06-20T11:56:32.000,86,0.0573
+resolution_action_updated_date,2,2026-02-09T00:00:00.000,69,0.046
+resolution_action_updated_date,3,2026-01-22T00:00:00.000,60,0.04
+resolution_action_updated_date,4,2022-03-30T00:00:00.000,60,0.04
+resolution_action_updated_date,5,2026-02-02T00:00:00.000,55,0.0367
+resolution_action_updated_date,6,2026-02-04T00:00:00.000,55,0.0367
+resolution_action_updated_date,7,2025-01-22T00:00:00.000,54,0.036
+resolution_action_updated_date,8,2026-01-28T00:00:00.000,52,0.0347
+resolution_action_updated_date,9,2026-03-30T00:00:00.000,50,0.0333
+resolution_action_updated_date,10,2025-01-27T00:00:00.000,48,0.032
+resolution_action_updated_date,11,2025-12-29T00:00:00.000,47,0.0313
+resolution_action_updated_date,12,2026-01-30T00:00:00.000,46,0.0307
+resolution_action_updated_date,13,2026-02-03T00:00:00.000,46,0.0307
+resolution_action_updated_date,14,2026-02-10T00:00:00.000,45,0.03
+resolution_action_updated_date,15,2024-12-02T00:00:00.000,45,0.03
+resolution_description,1,The Police Department responded to the complaint and took action to fix the condition.,17277,11.518
+resolution_description,2,The Police Department responded to the complaint and with the information available observed no evidence of the violatio...,17245,11.4967
+resolution_description,3,The Police Department responded to the complaint and determined that police action was not necessary.,8703,5.802
+resolution_description,4,The Department of Housing Preservation and Development inspected the following conditions. No violations were issued. Th...,7407,4.938
+resolution_description,5,The Police Department responded and upon arrival those responsible for the condition were gone.,6410,4.2733
+resolution_description,6,The Police Department issued a summons in response to the complaint.,5405,3.6033
+resolution_description,7,Service Request status for this request is available on the Department of Transportationâs website. Please click the â...,3518,2.3453
+resolution_description,8,The Department of Sanitation investigated this complaint and found no condition at the location.,2291,1.5273
+resolution_description,9,The complaint you filed is a duplicate of a condition already reported by another tenant for a building-wide condition. ...,2221,1.4807
+resolution_description,10,The Department of Housing Preservation and Development was not able to gain access to inspect the following conditions. ...,2075,1.3833
+resolution_description,11,The Police Department reviewed your complaint and provided additional information below.,1886,1.2573
+resolution_description,12,The Department of Housing Preservation and Development inspected the following conditions. Violations were issued. Infor...,1819,1.2127
+resolution_description,13,The Department of Sanitation investigated this complaint and found no violation at the location.,1785,1.19
+resolution_description,14,The Department of Housing Preservation and Development was not able to gain access to your apartment or others in the bu...,1636,1.0907
+resolution_description,15,The Department of Housing Preservation and Development inspected the following conditions. Violations were issued. Infor...,1589,1.0593
+road_ramp,1,Roadway,155,0.1033
+road_ramp,2,Ramp,92,0.0613
+road_ramp,3,4 Av & 17 St to Manhattan,3,0.002
+road_ramp,4,Fort Washington Av & W 181 St,3,0.002
+road_ramp,5,Essex St & Delancey St North side,3,0.002
+road_ramp,6,6 Av & W 47 St,2,0.0013
+road_ramp,7,Canal St & Centre St & Walker St,2,0.0013
+road_ramp,8,E 72 St & 2 Av,2,0.0013
+road_ramp,9,"WTC / PATH (south end, from Uptown platf",2,0.0013
+road_ramp,10,E 83 St & 2 Av,2,0.0013
+road_ramp,11,E 63 St & 3 Av,2,0.0013
+road_ramp,12,Flatbush Av Ext. & Willoughby St,2,0.0013
+road_ramp,13,Essex St & Delancey St South side,2,0.0013
+road_ramp,14,Caton Av & St Pauls Pl,2,0.0013
+road_ramp,15,Birchall Av & Sagamore St,1,0.0007
+source_file,1,nyc_311_all_appended.parquet,23706,15.804
+source_file,2,batch_19100000.parquet,3620,2.4133
+source_file,3,batch_18100000.parquet,3620,2.4133
+source_file,4,batch_20100000.parquet,3620,2.4133
+source_file,5,batch_19600000.parquet,3620,2.4133
+source_file,6,batch_18600000.parquet,3619,2.4127
+source_file,7,batch_3200000.parquet,2474,1.6493
+source_file,8,batch_4000000.parquet,1448,0.9653
+source_file,9,batch_4400000.parquet,1448,0.9653
+source_file,10,batch_3800000.parquet,1448,0.9653
+source_file,11,batch_11400000.parquet,1448,0.9653
+source_file,12,batch_11200000.parquet,1448,0.9653
+source_file,13,batch_12800000.parquet,1448,0.9653
+source_file,14,batch_4200000.parquet,1448,0.9653
+source_file,15,batch_4600000.parquet,1448,0.9653
+source_parquet,1,batch_18100000.parquet,3620,2.4133
+source_parquet,2,batch_19600000.parquet,3620,2.4133
+source_parquet,3,batch_20100000.parquet,3620,2.4133
+source_parquet,4,batch_19100000.parquet,3620,2.4133
+source_parquet,5,batch_18600000.parquet,3619,2.4127
+source_parquet,6,batch_3200000.parquet,3205,2.1367
+source_parquet,7,batch_10000000.parquet,1448,0.9653
+source_parquet,8,batch_3800000.parquet,1448,0.9653
+source_parquet,9,batch_4400000.parquet,1448,0.9653
+source_parquet,10,batch_11400000.parquet,1448,0.9653
+source_parquet,11,batch_11200000.parquet,1448,0.9653
+source_parquet,12,batch_12800000.parquet,1448,0.9653
+source_parquet,13,batch_4600000.parquet,1448,0.9653
+source_parquet,14,batch_4200000.parquet,1448,0.9653
+source_parquet,15,batch_4000000.parquet,1448,0.9653
+status,1,Closed,146764,97.8427
+status,2,In Progress,1695,1.13
+status,3,Open,815,0.5433
+status,4,Pending,464,0.3093
+status,5,Assigned,177,0.118
+status,6,Started,58,0.0387
+status,7,Unspecified,27,0.018
+street_name,1,EAST  230 STREET,1870,1.2467
+street_name,2,BROADWAY,1823,1.2153
+street_name,3,EAST  231 STREET,1053,0.702
+street_name,4,GRAND CONCOURSE,895,0.5967
+street_name,5,5 AVENUE,729,0.486
+street_name,6,3 AVENUE,700,0.4667
+street_name,7,PARSONS BOULEVARD,637,0.4247
+street_name,8,AMSTERDAM AVENUE,599,0.3993
+street_name,9,7 AVENUE,580,0.3867
+street_name,10,8 AVENUE,551,0.3673
+street_name,11,WASHINGTON AVENUE,506,0.3373
+street_name,12,ST NICHOLAS AVENUE,503,0.3353
+street_name,13,OCEAN AVENUE,495,0.33
+street_name,14,2 AVENUE,487,0.3247
+street_name,15,1 AVENUE,423,0.282
+taxi_company_borough,1,MANHATTAN,24,0.016
+taxi_company_borough,2,QUEENS,13,0.0087
+taxi_company_borough,3,BROOKLYN,13,0.0087
+taxi_company_borough,4,BRONX,13,0.0087
+taxi_company_borough,5,STATEN ISLAND,3,0.002
+taxi_pick_up_location,1,"JOHN F KENNEDY AIRPORT, QUEENS (JAMAICA) ,NY, 11430",70,0.0467
+taxi_pick_up_location,2,"LA GUARDIA AIRPORT, QUEENS (EAST ELMHURST) ,NY, 11369",34,0.0227
+taxi_pick_up_location,3,"JFK AIRPORT, QUEENS (JAMAICA) ,NY, 11430",32,0.0213
+taxi_pick_up_location,4,"PENNSYLVANIA STATION, MANHATTAN (NEW YORK) ,NY, 10121",8,0.0053
+taxi_pick_up_location,5,"GRAND CENTRAL TERMINAL, MANHATTAN (NEW YORK) ,NY, 10017",4,0.0027
+taxi_pick_up_location,6,"89 TILLARY STREET, BROOKLYN, NY, 11201",4,0.0027
+taxi_pick_up_location,7,"8 AVENUE AND WEST   42 STREET, MANHATTAN, NY, 10036",3,0.002
+taxi_pick_up_location,8,"1535 BROADWAY, MANHATTAN (NEW YORK), NY, 10036",3,0.002
+taxi_pick_up_location,9,"436 AVENUE OF THE AMERICAS, MANHATTAN (NEW YORK), NY, 10011",3,0.002
+taxi_pick_up_location,10,"154-68 BROOKVILLE BOULEVARD, QUEENS (ROSEDALE), NY, 11422",3,0.002
+taxi_pick_up_location,11,"193 2 AVENUE, MANHATTAN (NEW YORK), NY, 10003",2,0.0013
+taxi_pick_up_location,12,"1335 AVENUE OF THE AMERICAS, MANHATTAN (NEW YORK), NY, 10019",2,0.0013
+taxi_pick_up_location,13,"201 WEST  110 STREET, MANHATTAN (NEW YORK), NY, 10026",2,0.0013
+taxi_pick_up_location,14,"125 CENTRAL PARK WEST, MANHATTAN (NEW YORK), NY, 10023",2,0.0013
+taxi_pick_up_location,15,"130 3 AVENUE, MANHATTAN (NEW YORK), NY, 10003",2,0.0013
+unique_key,1,68585039,1,0.0007
+unique_key,2,68571926,1,0.0007
+unique_key,3,68567014,1,0.0007
+unique_key,4,68569137,1,0.0007
+unique_key,5,68575164,1,0.0007
+unique_key,6,68571530,1,0.0007
+unique_key,7,68559592,1,0.0007
+unique_key,8,68567921,1,0.0007
+unique_key,9,68584105,1,0.0007
+unique_key,10,68578755,1,0.0007
+unique_key,11,68569123,1,0.0007
+unique_key,12,68566575,1,0.0007
+unique_key,13,68572137,1,0.0007
+unique_key,14,68572307,1,0.0007
+unique_key,15,68561870,1,0.0007
+vehicle_type,1,Car,1702,1.1347
+vehicle_type,2,SUV,355,0.2367
+vehicle_type,3,Other,291,0.194
+vehicle_type,4,Van,184,0.1227
+vehicle_type,5,Truck,172,0.1147
+vehicle_type,6,Car Service,32,0.0213
+x_coordinate_state_plane,1,1022911,1201,0.8007
+x_coordinate_state_plane,2,1023174,844,0.5627
+x_coordinate_state_plane,3,1022911.0,515,0.3433
+x_coordinate_state_plane,4,1037000,324,0.216
+x_coordinate_state_plane,5,1012350,177,0.118
+x_coordinate_state_plane,6,1023188,119,0.0793
+x_coordinate_state_plane,7,1022955,107,0.0713
+x_coordinate_state_plane,8,1003936,100,0.0667
+x_coordinate_state_plane,9,1038740,94,0.0627
+x_coordinate_state_plane,10,1037000.0,88,0.0587
+x_coordinate_state_plane,11,1043001,82,0.0547
+x_coordinate_state_plane,12,984166,81,0.054
+x_coordinate_state_plane,13,986967,75,0.05
+x_coordinate_state_plane,14,1004421,74,0.0493
+x_coordinate_state_plane,15,988793,72,0.048
+y_coordinate_state_plane,1,264242,1201,0.8007
+y_coordinate_state_plane,2,264429,842,0.5613
+y_coordinate_state_plane,3,264242.0,515,0.3433
+y_coordinate_state_plane,4,202363,324,0.216
+y_coordinate_state_plane,5,250589,175,0.1167
+y_coordinate_state_plane,6,264423,119,0.0793
+y_coordinate_state_plane,7,264223,108,0.072
+y_coordinate_state_plane,8,242233,97,0.0647
+y_coordinate_state_plane,9,200651,97,0.0647
+y_coordinate_state_plane,10,202363.0,88,0.0587
+y_coordinate_state_plane,11,175548,81,0.054
+y_coordinate_state_plane,12,188346,79,0.0527
+y_coordinate_state_plane,13,217880,79,0.0527
+y_coordinate_state_plane,14,214950,75,0.05
+y_coordinate_state_plane,15,194233,74,0.0493
