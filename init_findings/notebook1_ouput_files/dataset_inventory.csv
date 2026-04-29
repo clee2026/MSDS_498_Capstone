@@ -1,2 +1,0 @@
-run_id,run_timestamp,source_parquet,file_format,file_size_bytes,file_size_mb,row_count_metadata,column_count,row_group_count,drive_source,notebook_stage
-20260422_215232,2026-04-22 21:52:32,/content/drive/MyDrive/project_data/Capstone Course Project Files/Data/nyc_311_FINAL_UPDATED.parquet,parquet,1817114586,1732.94,20774822,46,104,Google Drive / MyDrive,Notebook 1 - Intake and Profiling
