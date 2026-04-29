@@ -1,0 +1,31 @@
+feature,importance
+created_month,0.1760560544877408
+agency_name_New York City Police Department,0.12360859854547464
+agency_NYPD,0.11839212308827474
+complaint_type_UNSANITARY CONDITION,0.07719729882081355
+descriptor_infrequent_sklearn,0.07299559867922245
+location_type_RESIDENTIAL BUILDING,0.051690620016917856
+agency_name_Department of Housing Preservation and Development,0.05135140566076842
+agency_HPD,0.03764568753624163
+created_hour,0.036231449312788766
+complaint_type_infrequent_sklearn,0.023432801983616844
+created_dayofweek,0.02213393526285074
+agency_DOB,0.019298301899346875
+agency_name_Department of Buildings,0.01625125544440797
+agency_name_Department of Consumer and Worker Protection,0.009699739174118167
+agency_DCWP,0.00849423771394008
+borough_QUEENS,0.008414810745755234
+complaint_type_PAINT/PLASTER,0.008282797456277328
+location_type_Business,0.00807442869154167
+open_data_channel_type_ONLINE,0.006011415511926134
+police_precinct_infrequent_sklearn,0.0058690089745149325
+agency_name_Department of Sanitation,0.005862900177711055
+descriptor_CEILING,0.0056447260319356105
+community_board_infrequent_sklearn,0.005512844172282473
+borough_BRONX,0.0054130549745903325
+incident_zip_infrequent_sklearn,0.005410858654488301
+borough_BROOKLYN,0.005375914313634578
+council_district_infrequent_sklearn,0.004913823425633998
+complaint_type_Building/Use,0.004660132750045549
+location_type_UNKNOWN,0.004581181361987457
+agency_DSNY,0.004251770046592487

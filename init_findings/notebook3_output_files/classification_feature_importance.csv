@@ -1,0 +1,31 @@
+feature,importance
+agency_NYPD,0.18693908108490145
+agency_name_New York City Police Department,0.14095889888460497
+location_type_Street/Sidewalk,0.09023687536818499
+agency_HPD,0.0762344900751785
+created_hour,0.0551418095435462
+location_type_RESIDENTIAL BUILDING,0.05356892036440759
+agency_name_Department of Housing Preservation and Development,0.04454270265254015
+complaint_type_Illegal Parking,0.042513058304686914
+location_type_Residential Building/House,0.020891319118912587
+complaint_type_HEAT/HOT WATER,0.016261799535224726
+complaint_type_Noise - Residential,0.014756309770496856
+descriptor_infrequent_sklearn,0.013855731017305126
+location_type_Street,0.012900804506793753
+complaint_type_infrequent_sklearn,0.010968478548821119
+agency_name_Department of Sanitation,0.010106712092548747
+location_type_UNKNOWN,0.009969842411016294
+descriptor_ENTIRE BUILDING,0.00980495383068232
+descriptor_Loud Music/Party,0.009324755398819645
+open_data_channel_type_PHONE,0.007727860842869365
+agency_DSNY,0.007252309402072023
+location_type_Sidewalk,0.0071551696733344276
+complaint_type_Blocked Driveway,0.007069510196872326
+complaint_type_Traffic Signal Condition,0.0065590529965150034
+complaint_type_UNSANITARY CONDITION,0.006446476293118979
+open_data_channel_type_MOBILE,0.005600398119492861
+open_data_channel_type_UNKNOWN,0.00519147376245943
+descriptor_Banging/Pounding,0.00512990147311057
+agency_DOT,0.005070339286230121
+descriptor_No Access,0.004355711767812635
+descriptor_Controller,0.00435333591545703

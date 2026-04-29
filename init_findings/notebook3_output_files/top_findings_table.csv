@@ -1,0 +1,6 @@
+finding_id,topic,result,evidence_file,business_relevance
+F1,Complaint concentration,"The most common complaint type is Illegal Parking with 2,641,208 records in the full dataset.",full_counts_complaint_type.csv,High-volume complaint types are the best starting point for operational improvement.
+F2,Geographic distribution,"The borough with the highest request count is BROOKLYN with 6,206,211 records in the full dataset.",full_counts_borough.csv,Uneven request distribution supports resource allocation analysis.
+F3,Response time skew,"The median response time in the modeling sample is 4.60 hours, while the 95th percentile is 235.83 hours.",sample_response_time_summary.csv,The gap between median and upper-tail response time shows that delays are concentrated in a subset of cases.
+F4,Classification modeling,The best same-day closure model was logistic_regression with F1 score 0.843.,classification_model_metrics.csv,Classification results support early identification of requests likely to miss same-day resolution.
+F5,Regression modeling,The best response-time model was random_forest_regressor with RMSE 87.89 hours.,regression_model_metrics.csv,Regression modeling helps estimate service delay risk using available request attributes.
