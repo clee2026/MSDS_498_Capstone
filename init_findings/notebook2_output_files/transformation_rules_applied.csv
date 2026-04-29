@@ -1,0 +1,7 @@
+step,details
+column_selection,Loaded only columns marked keep/transform/review from candidate_drop_review.csv
+column_name_standardization,Converted source columns into analysis-safe lowercase underscore names
+datetime_conversion,Attempted datetime conversion on likely datetime columns
+missing_value_treatment,Categorical fields filled with UNKNOWN; numeric fields median-imputed; datetime nulls retained
+categorical_text_cleaning,Trimmed and normalized text in object columns
+feature_engineering,"Created response_time_hours, closed_same_day_flag, and repeat_complaint_flag where source columns were available"

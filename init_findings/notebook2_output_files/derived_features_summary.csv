@@ -1,0 +1,4 @@
+derived_feature,source_columns,purpose
+response_time_hours,"created_date, closed_date",Regression target for service response time
+closed_same_day_flag,"created_date, closed_date",Classification target for same-day resolution
+repeat_complaint_flag,complaint_type,Exploratory classification flag for repeated complaint categories
