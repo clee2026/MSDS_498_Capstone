@@ -1,0 +1,44 @@
+Notebook 1 - Intake and Profiling
+Run timestamp: 2026-04-22 21:52:32
+Run ID: 20260422_215232
+Source parquet: /content/drive/MyDrive/project_data/Capstone Course Project Files/Data/nyc_311_FINAL_UPDATED.parquet
+Output dir: /content/project_outputs
+Reading parquet metadata and schema...
+Metadata loaded | rows=20774822 | columns=46 | row_groups=104 | file_size_bytes=1817114586
+Saved dataset inventory to /content/project_outputs/01_intake_profile/dataset_inventory.csv
+Saved initial schema profile to /content/project_outputs/01_intake_profile/column_profile.csv
+Creating development sample...
+Sample progress: batches=50 | sample_rows=9039
+Sample progress: batches=100 | sample_rows=18017
+Sample progress: batches=150 | sample_rows=26543
+Sample progress: batches=200 | sample_rows=35592
+Sample progress: batches=250 | sample_rows=44641
+Sample progress: batches=300 | sample_rows=53690
+Sample progress: batches=350 | sample_rows=62739
+Sample progress: batches=400 | sample_rows=71786
+Sample progress: batches=450 | sample_rows=80836
+Sample progress: batches=500 | sample_rows=89886
+Sample progress: batches=550 | sample_rows=98935
+Sample progress: batches=600 | sample_rows=107984
+Sample progress: batches=650 | sample_rows=117033
+Sample progress: batches=700 | sample_rows=126083
+Sample progress: batches=750 | sample_rows=135132
+Sample progress: batches=800 | sample_rows=144181
+Development sample created with shape=(150000, 46), batch_size=25000, target_rows=150000, saved_to=/content/project_outputs/01_intake_profile/development_sample.parquet
+Starting full null scan...
+Null scan progress: rows_scanned=4866170
+Null scan progress: rows_scanned=9866160
+Null scan progress: rows_scanned=14866158
+Null scan progress: rows_scanned=19866155
+Saved missingness summary to /content/project_outputs/01_intake_profile/missingness_summary.csv
+Building sample-based column profile details...
+Saved distinct value summary to /content/project_outputs/01_intake_profile/distinct_value_summary.csv
+Saved top values summary to /content/project_outputs/01_intake_profile/top_values_selected_columns.csv
+Updated and saved merged column profile to /content/project_outputs/01_intake_profile/column_profile.csv
+Saved candidate drop review to /content/project_outputs/01_intake_profile/candidate_drop_review.csv
+Saved plot /content/project_outputs/01_intake_profile/plots/missingness_bar_top25.png
+Saved 0 numeric distribution plots
+Saved 6 categorical plots
+Saved 0 datetime coverage plots
+Saved manifest to /content/project_outputs/run_manifest.json
+Saved initial findings notes to /content/project_outputs/01_intake_profile/initial_findings_notes.txt
