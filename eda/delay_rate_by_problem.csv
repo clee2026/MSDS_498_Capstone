@@ -1,0 +1,193 @@
+problem,request_count,delay_rate
+Illegal Parking,501365,0.0
+Noise - Residential,369414,0.0
+HEAT/HOT WATER,329068,0.0
+Blocked Driveway,161274,0.0
+Noise - Street/Sidewalk,144663,0.0
+UNSANITARY CONDITION,108095,0.0
+Street Condition,82148,0.0
+Water System,75661,0.0
+PLUMBING,67233,0.0
+Snow or Ice,63938,0.0
+Dirty Condition,57463,0.0
+Abandoned Vehicle,56794,0.0
+PAINT/PLASTER,54777,0.0
+Noise - Commercial,50305,0.0
+Traffic Signal Condition,49133,0.0
+Noise,47604,0.0
+DOOR/WINDOW,42499,0.0
+Encampment,40773,0.0
+Noise - Vehicle,37543,0.0
+WATER LEAK,37491,0.0
+Derelict Vehicles,33691,0.0
+Homeless Person Assistance,32280,0.0
+Missed Collection,32210,0.0
+Illegal Dumping,31901,0.0
+GENERAL,31472,0.0
+General Construction/Plumbing,30428,0.0
+Street Light Condition,30363,0.0
+ELECTRIC,28844,0.0
+Damaged Tree,28219,0.0
+FLOORING/STAIRS,24724,0.0
+Sewer,23816,0.0
+Rodent,23239,0.0
+Vendor Enforcement,22789,0.0
+Sidewalk Condition,22235,0.0
+Drug Activity,22045,0.0
+Maintenance or Facility,21847,0.0
+Non-Emergency Police Matter,21484,0.0
+APPLIANCE,20970,0.0
+Elevator,20617,0.0
+Building/Use,19285,0.0
+Obstruction,17745,0.0
+Consumer Complaint,16367,0.0
+Lead,15901,0.0
+Noise - Helicopter,15876,0.0
+Overgrown Tree/Branches,15782,0.0
+For Hire Vehicle Complaint,15609,0.0
+Graffiti,14941,0.18660062914128908
+Residential Disposal Complaint,11659,0.0
+SAFETY,11588,0.0
+Food Establishment,11146,0.0
+Traffic,10589,0.0
+Illegal Fireworks,10395,0.0
+Panhandling,10353,0.0
+Animal-Abuse,9482,0.0
+Taxi Complaint,8955,0.0
+Dead Animal,8730,0.0
+Root/Sewer/Sidewalk Condition,8612,0.0
+Dead/Dying Tree,8181,0.0
+Air Quality,7981,0.0
+Indoor Air Quality,7971,0.0
+Noise - Park,7961,0.0
+Curb Condition,6854,0.0
+Street Sweeping Complaint,6723,0.0
+Smoking or Vaping,6136,0.0
+Lost Property,5613,0.0
+Water Conservation,5361,0.0
+Highway Condition,5235,0.0
+Real Time Enforcement,4753,0.0
+Street Sign - Damaged,4618,0.0
+Illegal Posting,4493,0.0
+Illegal Tree Damage,4408,0.0
+Animal in a Park,4262,0.0
+Drinking,3830,0.0
+Boilers,3746,0.0
+Mobile Food Vendor,3651,0.0
+Special Projects Inspection Team (SPIT),3486,0.0
+Street Sign - Dangling,3235,0.0
+Litter Basket Request,3188,0.0
+Violation of Park Rules,3153,0.0
+Noise - House of Worship,3062,0.0
+Plumbing,2909,0.0
+Street Sign - Missing,2875,0.0
+Emergency Response Team (ERT),2807,0.0
+Sanitation Worker or Vehicle Complaint,2797,0.0
+Outdoor Dining,2716,0.0
+Food Poisoning,2547,0.0
+Unsanitary Animal Pvt Property,2501,0.0
+Broken Parking Meter,2362,0.0
+Cannabis Retailer,2170,0.0
+Construction Safety Enforcement,2110,0.0
+Hazardous Materials,2047,0.0
+Electrical,2044,0.0
+Bus Stop Shelter Complaint,1785,0.0
+School Maintenance,1705,0.0
+Dumpster Complaint,1699,0.0
+Abandoned Bike,1625,0.0
+ELEVATOR,1579,0.0
+Non-Residential Heat,1554,0.0
+Unsanitary Pigeon Condition,1458,0.0
+Day Care,1448,0.0
+Unleashed Dog,1411,0.0
+Asbestos,1385,0.0
+Urinating in Public,1317,0.0
+Lot Condition,1312,0.0
+Litter Basket Complaint,1162,0.0
+Commercial Disposal Complaint,1141,0.0
+Construction Lead Dust,1140,0.0
+Water Quality,1100,0.0
+Bike/Roller/Skate Chronic,1066,0.0
+Standing Water,1021,0.0
+Wood Pile Remaining,981,0.0
+OUTSIDE BUILDING,873,0.0
+Industrial Waste,740,0.0
+Taxi Report,710,0.0
+Illegal Animal Kept as Pet,585,0.0
+Investigations and Discipline (IAD),572,0.0
+New Tree Request,567,0.0
+Bike Rack,507,0.0
+Indoor Sewage,474,0.0
+Harboring Bees/Wasps,445,0.0
+BEST/Site Safety,437,0.0
+Bike/Roller/Skate,397,0.0
+For Hire Vehicle Report,387,0.0
+Bridge Condition,386,0.0
+Green Taxi Complaint,365,0.0
+E-Scooter,358,0.0
+Mold,326,0.0
+Mosquitoes,319,0.0
+Drinking Water,315,0.0
+Ferry Inquiry,305,0.0
+Bus Stop Shelter Placement,261,0.0
+Pet Sale,241,0.0
+Uprooted Stump,217,0.0
+Beach/Pool/Sauna Complaint,191,0.0
+Plant,179,0.0
+Disorderly Youth,173,0.0
+Tattooing,168,0.0
+LinkNYC,163,0.0
+Ferry Complaint,146,0.0
+Special Operations,126,0.0
+Bench,117,0.0
+Posting Advertisement,116,0.0
+Poison Ivy,112,0.0
+Scaffold Safety,110,0.0
+Illegal Animal Sold,108,0.0
+Tobacco or Non-Tobacco Sale,102,0.0
+Recycling Basket Complaint,99,0.0
+Taxi Compliment,97,0.0
+Animal Facility - No Permit,86,0.0
+Unsanitary Animal Facility,85,0.0
+Highway Sign - Damaged,76,0.0
+Municipal Parking Facility,71,0.0
+Found Property,65,0.0
+Building Drinking Water Tank,62,0.0
+Cranes and Derricks,58,0.0
+Green Taxi Report,47,0.0
+Highway Sign - Missing,47,0.0
+Institution Disposal Complaint,44,0.0
+Public Toilet,43,0.0
+Incorrect Data,35,0.0
+Lifeguard,35,0.0
+Special Natural Area District (SNAD),34,0.0
+SNW,33,0.0
+Cooling Tower,30,0.0
+Unspecified,30,0.0
+AHV Inspection Unit,27,0.0
+Dept of Investigations,23,0.0
+Window Guard,20,0.0
+Highway Sign - Dangling,18,0.0
+Radioactive Material,16,0.0
+Wayfinding,13,0.0
+Borough Office,11,0.0
+DEP Street Condition,11,0.0
+X-Ray Machine/Equipment,9,0.0
+Tanning,7,0.0
+Taxi Licensee Complaint,7,0.0
+Transfer Station Complaint,7,0.0
+DEP Highway Condition,6,0.0
+Oil or Gas Spill,6,0.0
+Squeegee,6,0.0
+Tunnel Condition,6,0.0
+Public Payphone Complaint,5,0.0
+Building Marshal's Office,4,0.0
+FHV Licensee Complaint,4,0.0
+Pet Shop,4,0.0
+Leaning Bar,3,0.0
+Calorie Labeling,2,0.0
+Building Condition,1,0.0
+DEP Sidewalk Condition,1,0.0
+DSNY Internal,1,0.0
+Safety,1,0.0
+Trapping Pigeon,1,0.0

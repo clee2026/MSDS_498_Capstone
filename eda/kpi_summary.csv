@@ -1,0 +1,8 @@
+metric,value
+rows,3300000.0
+unique_requests,3274374.0
+avg_response_hours,133.49612268416777
+median_response_hours,5.885
+open_share,0.026025454545454546
+closed_share,0.9452409090909091
+delayed_share_due_date,0.0008448484848484849
