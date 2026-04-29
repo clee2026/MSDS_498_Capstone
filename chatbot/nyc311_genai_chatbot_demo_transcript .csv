@@ -1,0 +1,527 @@
+question,answer
+What can I do about loud music from my neighbor?,"You are experiencing loud music from your neighbor, which is a common residential noise complaint in NYC. The likely 311 complaint category is ""Noise - Residential"" with the descriptor ""Loud Music/Party."" The responsible agency for handling this issue is the NYPD.
+
+Historically, many noise complaints about loud music are addressed by the NYPD, and some are resolved the same day. Response times can vary, but many cases see action within a few hours.
+
+Practical next steps:
+- If the noise is ongoing and disruptive, you can file a noise complaint with NYC 311 online or by phone.
+- Document the times and nature of the noise to support your complaint.
+- If the noise escalates to a disturbance or if you feel unsafe, contact the NYPD directly.
+- For emergencies or immediate threats to safety, call 911.
+
+Please note, this prototype does not submit official 311 requests or check live status."
+There is construction noise late at night. Can I report that?,"You can report construction noise late at night as a noise complaint, likely under ""Noise - Commercial"" or ""Noise"" categories. The responsible agency for noise issues, including construction noise, is often the Department of Environmental Protection (DEP) or the NYPD depending on the noise source and time.
+
+Historical data shows noise complaints vary by type and borough, with response times ranging from a few hours to over a day. Complaints about construction noise (""Noise: Jack Hammering"") are typically handled by DEP.
+
+Next steps:
+- You can file a noise complaint through NYC 311 online or by phone, specifying the construction noise and time.
+- Note that noise regulations often restrict construction during late-night hours, so your report can help enforcement.
+- This prototype does not submit official requests or check live status.
+- If the noise is part of an emergency or safety threat, call 911 immediately.
+
+If you want, I can guide you on how to submit a noise complaint to 311."
+A car alarm has been going off for hours. Is that a 311 issue?,"A car alarm going off for hours is typically considered a noise complaint. The likely 311 complaint category would be ""Noise - Vehicle,"" and the responsible agency is usually the NYPD or the local precinct, as they handle noise disturbances related to vehicles.
+
+Historically, noise complaints are common but may have varied response times depending on priority and resource availability. Since your issue involves a prolonged disturbance, it is reasonable to report it to 311 for follow-up.
+
+Practical next steps:
+- You can call 311 or use the NYC 311 website/app to file a noise complaint about the vehicle alarm.
+- Provide the exact location and duration of the alarm.
+- If the noise is causing a safety concern or if you suspect a crime (e.g., theft attempt), call 911 immediately.
+
+Please note this prototype does not submit official 311 requests or check live status. For emergencies or immediate threats, always call 911."
+My upstairs neighbor is making noise every night. Who handles that?,"Your issue is about noise disturbances coming from your upstairs neighbor at night. The likely 311 complaint category is ""Noise - Residential,"" which covers noise like loud music, parties, or banging in residential buildings. The responsible agency for these complaints is typically the NYPD.
+
+Historically, noise complaints related to residential neighbors are common and often handled by the NYPD, with many cases resolved the same day. Response times can vary, but the NYPD usually responds promptly to noise disturbances.
+
+Next steps:
+- You can file a noise complaint with NYC 311 under ""Noise - Residential.""
+- If the noise is ongoing and disruptive, document the times and nature of the noise.
+- For immediate disturbances late at night, calling 311 or contacting the NYPD non-emergency line is appropriate.
+- If you believe the noise issue involves safety threats or emergencies, call 911.
+
+Please note this prototype does not submit official 311 requests or check live status."
+There is loud street noise from a party outside. What should I do?,"You are experiencing loud street noise from a party. This type of issue typically falls under the ""Noise - Residential"" or ""Noise - Commercial"" complaint category, specifically described as ""Loud Music/Party."" The responsible agency for handling noise complaints related to parties is the NYPD.
+
+Historically, noise complaints about loud parties are common and often receive a response from the NYPD. Response times can vary, but many such complaints are resolved within a few hours, sometimes even the same day.
+
+Next steps:
+- If the noise is not an emergency but is disturbing your peace, you can file a noise complaint with NYC 311, specifying the location and nature of the noise.
+- If the noise is ongoing and severely disruptive, contacting 311 or using the NYC 311 app to report the issue is appropriate.
+- For immediate safety concerns, threats, or if the noise is part of a crime in progress, call 911.
+
+Please note, this prototype cannot submit official 311 requests or check live status updates. For urgent matters, always call 911."
+My apartment has no heat. What should I do?,"You have no heat in your apartment. This issue typically falls under the ""HEAT/HOT WATER"" complaint category, which is handled by the NYC Department of Housing Preservation and Development (HPD).
+
+From past data, response times can vary widely depending on the borough and whether the heat outage affects your entire building or just your apartment. Some cases are resolved the same day, but others may take longer.
+
+Next steps:
+- Contact your building management or landlord immediately to report the lack of heat.
+- If the landlord does not address the issue promptly, you can file a 311 complaint with HPD specifying ""HEAT/HOT WATER"" and whether it affects your apartment only or the entire building.
+- Keep records of your communications and any temperatures inside your apartment, as this can support your complaint.
+
+Please note, this prototype does not submit official 311 requests or check live status. If you or anyone in your home is at risk due to the lack of heat, or if there is a safety emergency, call 911 immediately."
+My landlord has not fixed hot water for three days.,"You are experiencing a lack of hot water in your apartment for three days. This issue typically falls under the 311 complaint category ""HEAT/HOT WATER,"" which is handled by the NYC Department of Housing Preservation and Development (HPD).
+
+Historical data shows that response times for heat and hot water complaints vary widely, with some cases resolved within hours and others taking several days. Since your landlord has not fixed the problem, filing a 311 complaint with HPD can prompt an inspection or enforcement action.
+
+Next steps:
+- Contact your landlord again to request urgent repair.
+- If the issue persists, file a 311 complaint under ""HEAT/HOT WATER"" to notify HPD.
+- Keep records of your communications and any impact on your living conditions.
+
+This prototype does not submit official requests or track live status. For emergencies involving safety or health risks, call 911 immediately."
+There is mold in my apartment. Is that a 311 complaint?,"You have mold in your apartment, which is a health and housing concern. While mold itself is not explicitly listed in the top complaint types, it generally falls under ""UNSANITARY CONDITION"" or housing maintenance issues.
+
+The likely responsible agency for mold problems in apartments is the NYC Department of Housing Preservation and Development (HPD). They handle housing quality and health hazards in residential buildings.
+
+Based on historical patterns, complaints related to housing conditions can take some time to resolve, and response times vary by borough and issue severity.
+
+Next steps:
+- Contact your landlord or building management to address the mold issue promptly.
+- If the landlord does not act, you can file a 311 complaint under ""UNSANITARY CONDITION"" or ""HEAT/HOT WATER"" if related to moisture problems, specifying mold in your apartment.
+- Keep records and photos of the mold for documentation.
+
+Note: This prototype does not submit official 311 requests or check live status. For any immediate health emergencies or severe mold exposure symptoms, please seek medical attention or call 911."
+My ceiling is leaking. Who do I contact?,"A leaking ceiling in your home is typically a maintenance or repair issue related to your building. This is usually the responsibility of your landlord or property management if you rent, or your own maintenance if you own the property. 
+
+311 handles many city-related complaints like illegal parking or street issues, but interior building repairs like ceiling leaks are generally not managed by NYC agencies unless the leak is caused by a city-owned property or infrastructure.
+
+Next steps:
+- If you rent, contact your landlord or building management immediately to report the leak.
+- If you own your home, consider hiring a licensed plumber or contractor to assess and fix the problem.
+- If the leak is severe and causing safety hazards (e.g., electrical issues, risk of collapse), and you believe it involves city property, you may call 311 for guidance.
+- For emergencies involving immediate danger, call 911.
+
+This prototype does not submit official 311 requests or check live request status."
+The building has broken stairs and no lights in the hallway.,"You mentioned broken stairs and no lights in the hallway of a building. This situation involves building safety and maintenance issues.
+
+The likely 311 complaint category is ""Building Condition"" or ""Unsafe Building,"" which typically falls under the Department of Buildings (DOB) or possibly the Housing Preservation and Development (HPD) agency if it is a residential property.
+
+Historically, complaints about unsafe building conditions can have varied response times, with some cases resolved quickly and others taking longer depending on severity and resource availability.
+
+Next steps:
+- If the broken stairs and lack of lighting pose an immediate safety hazard, please avoid using the stairs and notify building management or your landlord right away.
+- For non-emergency reporting, you can file a 311 complaint under ""Building Condition"" or ""Unsafe Building"" to alert DOB or HPD.
+- If you believe the condition is an emergency risk to life or safety, call 911 immediately.
+
+This prototype cannot submit official 311 requests or check live status but aims to guide you on the best course of action."
+Trash was not picked up on my block. Can I report it?,"You can report missed trash pickup issues to the Department of Sanitation (DSNY), which is responsible for garbage collection in NYC. The likely 311 complaint category is ""Sanitation Worker or Vehicle Complaint,"" often used for sanitation-related concerns.
+
+Historically, response times vary widely, with some cases resolved quickly and others taking longer, so reporting helps DSNY track and address service gaps.
+
+Next steps:
+- File a 311 complaint online or by phone under the sanitation category.
+- Provide your exact location and details about the missed pickup.
+- For urgent sanitation hazards, call 311 promptly.
+
+This prototype does not submit official requests or check live status. For emergencies or safety threats, please call 911."
+There is illegal dumping on the sidewalk.,"You reported illegal dumping on the sidewalk. This issue typically falls under the 311 complaint category ""Illegal Dumping"" or ""Sanitation Condition."" The responsible agency is usually the Department of Sanitation (DSNY).
+
+Historical data shows that complaints about street conditions and sanitation are common and often handled by DSNY, with response times varying depending on location and workload. While the dataset here focuses more on noise and street condition complaints, illegal dumping is a recognized issue that DSNY addresses.
+
+Next steps:
+- You can file a 311 complaint online or by phone specifying the exact location of the illegal dumping.
+- Provide clear details and, if possible, photos to help DSNY respond effectively.
+- For urgent safety hazards related to the dumping, call 911.
+
+Please note this prototype does not submit official 311 requests or track live status. For emergencies or immediate threats, always call 911."
+Someone left furniture outside for days.,"It sounds like you are noticing furniture left outside for several days. This situation is often reported under the 311 complaint category ""Illegal Dumping"" or ""Bulk Item Disposal,"" depending on the exact circumstances.
+
+The responsible agency is typically the NYC Department of Sanitation (DSNY), which handles removal of bulk items and illegal dumping.
+
+Historically, complaints about illegal dumping and abandoned furniture are common and can take varying times to resolve depending on location and workload. Brooklyn, for example, has the highest volume of 311 requests overall, which can affect response times.
+
+Next steps:
+- You can report the issue to 311 by specifying the exact location and description of the furniture.
+- DSNY will schedule pickup or cleanup as appropriate.
+- If the furniture poses a safety hazard or blocks sidewalks, mention that in your report.
+
+Please note this prototype cannot submit official 311 requests or check live status. For emergencies or safety threats, call 911 immediately."
+My recycling was missed. What should I do?,"It sounds like your recycling collection was missed. This issue typically falls under the ""Missed Recycling Pickup"" complaint category, which is handled by the Department of Sanitation (DSNY).
+
+Missed collections can sometimes happen due to scheduling or operational delays. While median response times for NYC service requests are around a few hours, some cases experience longer delays.
+
+Next steps:
+- You can report the missed recycling pickup directly to DSNY through their website or by calling 311.
+- Check your local collection schedule to confirm the pickup day.
+- If the issue persists or involves safety hazards, consider contacting 311 for assistance.
+
+Please note, this prototype does not submit official requests or track live status. For emergencies or urgent safety concerns, call 911."
+There are overflowing garbage cans near my building.,"You are noticing overflowing garbage cans near your building. This issue typically falls under the ""Sanitation Worker or Vehicle Complaint"" category, specifically related to ""Spilled Garbage"" or missed garbage collection. The responsible agency for this is the Department of Sanitation (DSNY).
+
+Historically, sanitation complaints can sometimes experience delays in response, with some cases taking several hours or more to resolve. While many requests are closed the same day, others may take longer depending on workload and location.
+
+Next steps you can take:
+- Check if the garbage cans are city-provided and report the overflow through the official NYC 311 website or app under the Sanitation category.
+- If the overflow poses a health hazard or attracts pests, mention this in your report for priority attention.
+- For ongoing or repeated issues, consider contacting your local community board or elected officials to raise awareness.
+
+Please note, this prototype cannot submit official 311 requests or check live status. If you see any immediate safety hazards or emergencies related to the garbage, call 911."
+There is a pothole on my street.,"You have reported a pothole on your street. This issue typically falls under the ""Street Condition"" complaint category, specifically labeled as ""Pothole."" The responsible agency for pothole repairs is the NYC Department of Transportation (DOT).
+
+Historically, DOT handles many pothole complaints across boroughs like Brooklyn, Manhattan, and Queens, with many requests closed on the same day. Response times can vary, with some cases resolved quickly and others taking longer depending on workload and location.
+
+Next steps:
+- You can report the pothole directly to NYC 311 through their website or mobile app for official tracking and repair scheduling.
+- If the pothole poses an immediate safety hazard, exercise caution and consider notifying DOT promptly.
+- This prototype does not submit official requests or check live status, so contacting 311 directly is recommended.
+
+If the pothole causes a dangerous situation or an accident, call 911 immediately for emergency assistance."
+The sidewalk is cracked and dangerous.,"You mentioned a cracked and dangerous sidewalk. This issue typically falls under the 311 complaint category ""Street Condition,"" which covers sidewalk defects like cracks and trip hazards. The responsible agency for sidewalk repairs is usually the Department of Transportation (DOT).
+
+Historically, DOT handles many street condition complaints, including potholes and sidewalk issues, with varying response times depending on location and severity. While some requests are resolved quickly, others may take longer, especially if repairs require more extensive work.
+
+Next steps:
+- You can file a 311 complaint online or by phone specifying the exact location and nature of the sidewalk damage.
+- If the crack poses an immediate safety hazard, avoid the area if possible and alert others nearby.
+- For emergencies or if someone is injured due to the sidewalk condition, call 911 immediately.
+
+Please note this prototype does not submit official 311 requests or track live status updates."
+A streetlight is out.,"You reported a streetlight is out. This issue typically falls under the ""Street Light Condition"" complaint category, which is handled by the NYC Department of Transportation (DOT).
+
+Historically, DOT manages streetlight outages, but response times can vary and some cases may not close the same day. While median response times are not specified here for streetlight outages, other DOT-related street condition issues sometimes resolve quickly, but some take longer.
+
+Next steps:
+- You can report the streetlight outage directly to NYC DOT through their online portal or by calling 311.
+- Provide the exact location of the streetlight to help DOT address it efficiently.
+- If the outage creates a safety hazard (e.g., dark intersections), exercise caution and consider notifying local authorities.
+
+Note: This prototype does not submit official 311 requests or check live status. For emergencies or immediate safety threats, please call 911."
+The traffic signal is not working.,"You mentioned that a traffic signal is not working. This issue typically falls under the 311 complaint category ""Traffic Signal Condition"" or ""Traffic Signal Malfunction."" The responsible agency is usually the NYC Department of Transportation (DOT).
+
+Historically, traffic signal complaints are common and prioritized to ensure public safety and traffic flow. Response times can vary, with many requests resolved within hours, but some cases may take longer depending on complexity and resource availability.
+
+Next steps:
+- You can report the malfunctioning traffic signal to NYC 311 through their website or phone line.
+- Provide the exact location (intersection or nearest cross streets) to help the DOT address the issue promptly.
+- If the malfunctioning signal is causing immediate danger or accidents, please call 911 for emergency assistance.
+
+Please note, this prototype does not submit official 311 requests or check live status updates."
+There is a damaged street sign.,"You mentioned a damaged street sign. This issue typically falls under the ""Street Sign - Damaged"" or similar category, which is usually handled by the NYC Department of Transportation (DOT).
+
+While the provided data does not include specific response times or complaint counts for damaged street signs, DOT is generally responsible for street infrastructure maintenance, including signs.
+
+Next steps:
+- You can report the damaged street sign directly to NYC 311 via their website or app under the ""Street Sign - Damaged"" complaint category.
+- Provide the exact location of the sign to help DOT address it efficiently.
+- If the damaged sign poses an immediate safety hazard, please call 911.
+
+Please note this prototype does not submit official 311 requests or check live request status."
+A car is blocking my driveway.,"You have a car blocking your driveway, which is typically reported as an Illegal Parking complaint. The responsible agency for this issue is the NYC Department of Transportation (DOT) or the Police Department, depending on the situation.
+
+Illegal Parking is one of the most common complaint types in NYC, with over 2.6 million records historically, so the city is familiar with handling these requests. Response times can vary, with a median around a few hours, but some cases may take longer.
+
+Next steps:
+- You can report the illegally parked vehicle to 311 through the official NYC 311 website or app.
+- Provide the exact location and any vehicle details to help enforcement.
+- If the vehicle is blocking emergency access or creating a safety hazard, call 911 immediately.
+
+Please note this prototype does not submit official 311 requests or check live status. For urgent safety concerns, always call 911."
+There is an abandoned vehicle on my block.,"You reported an abandoned vehicle on your block. This issue typically falls under the 311 complaint category ""Illegal Parking,"" which is the most common complaint type in NYC. The responsible agency for addressing abandoned vehicles is usually the NYC Department of Transportation or the Police Department, depending on the situation.
+
+Historically, illegal parking complaints are very frequent, with over 2.6 million records, indicating that the city has established processes to handle them. Response times can vary, with many cases resolved within hours, though some take longer depending on complexity and location.
+
+Next steps:
+- You can file a 311 complaint online or by phone to report the abandoned vehicle.
+- Provide the exact location and any identifying details (license plate, vehicle description).
+- If the vehicle poses an immediate safety hazard or blocks emergency access, call 911.
+
+Please note, this prototype does not submit official 311 requests or check live status updates. For urgent safety concerns, always call 911."
+Someone parked in a bus stop.,"You are reporting a vehicle parked in a bus stop, which is a form of illegal parking.
+
+The likely 311 complaint category for this issue is ""Illegal Parking."" The responsible agency is typically the NYC Department of Transportation (DOT) or the NYC Police Department (NYPD), as they enforce parking regulations.
+
+Historically, illegal parking is the most common complaint type in NYC 311 data, with over 2.6 million records, indicating it is a frequent issue citywide.
+
+Next steps:
+- You can report this issue through the official NYC 311 website or app under the ""Illegal Parking"" category.
+- Provide the exact location of the bus stop to help enforcement respond.
+- Note that response times can vary; median response is around a few hours, but some cases may take longer.
+- This prototype does not submit official requests or track live status.
+
+If the illegally parked vehicle is causing an immediate safety hazard or blocking emergency access, please call 911."
+A vehicle has no plates and has been sitting for weeks.,"You are reporting a vehicle without license plates that has been parked for weeks. This situation typically falls under the ""Illegal Parking"" complaint category, which is the most common type of complaint in NYC. The responsible agency for this issue is usually the NYC Department of Transportation (DOT) or the Police Department, depending on the exact circumstances.
+
+Historically, illegal parking complaints are very frequent, especially in boroughs like Brooklyn, and response times can vary widely. Since your vehicle has no plates and has been stationary for weeks, it may be considered abandoned or illegally parked.
+
+Next steps:
+- You can report this issue to 311 through their official channels, providing the exact location and description.
+- If the vehicle poses a safety hazard or blocks traffic, note that response times may vary.
+- This prototype cannot submit requests or check live status.
+- If you believe the vehicle is involved in a crime or poses an immediate danger, please call 911.
+
+Thank you for helping keep NYC streets safe and accessible."
+Can I report illegal parking through 311?,"Yes, you can report illegal parking through 311 in New York City. The most common complaint type received by 311 is Illegal Parking, which includes issues like blocked sidewalks, blocked hydrants, and posted parking sign violations. These complaints are typically handled by the NYPD.
+
+Based on historical data, many illegal parking complaints are resolved the same day, often within a few hours. However, response times can vary depending on the location and nature of the violation.
+
+To report illegal parking, you can contact 311 via phone, the NYC 311 website, or the mobile app. Provide details such as the exact location and the nature of the parking violation to help the agency respond effectively.
+
+Please note, this prototype does not submit official 311 requests or check live request status. For emergencies or safety threats related to illegal parking (e.g., blocking emergency vehicles), call 911 immediately."
+There are rats in the alley.,"You mentioned there are rats in the alley. This issue typically falls under the 311 complaint category ""Rodent"" or ""Rat Complaint."" The responsible agency is usually the NYC Department of Health and Mental Hygiene (DOHMH), which handles rodent control and inspections.
+
+Historically, rodent complaints are common in certain boroughs like Brooklyn, which has the highest volume of 311 requests overall. Response times can vary, with some cases resolved quickly and others taking longer depending on workload and location.
+
+Next steps:
+- You can report this rodent issue through the official NYC 311 website or app under the ""Rodent"" complaint category.
+- Provide the exact location details to help the agency respond effectively.
+- Keep your area clean and remove food sources to discourage rodents.
+
+Please note, this prototype cannot submit official 311 requests or check live status. If you see rodents posing an immediate health hazard or if there is an emergency, call 911."
+I saw rats near a restaurant.,"You reported seeing rats near a restaurant. This situation typically falls under the 311 complaint category ""Rodent"" or ""Rat Complaint,"" which is usually handled by the NYC Department of Health and Mental Hygiene (DOHMH).
+
+Rodent complaints are common in NYC, especially in areas with food establishments, and timely reporting helps the city target inspections and pest control efforts. While response times can vary, the city prioritizes public health concerns like rodent infestations.
+
+Next steps:
+- You can file a 311 complaint online or by phone to alert DOHMH.
+- Provide the exact location and any details about the rat activity.
+- Avoid direct contact with rodents and keep food sealed.
+
+Please note, this prototype cannot submit official 311 requests or check live status. If you see a situation posing immediate health risks or hazards, contact 311 or DOHMH directly. For emergencies or safety threats, call 911."
+My building has a roach problem.,"You are experiencing a roach infestation in your building. This issue is commonly addressed through the 311 system under the category of ""Rodent/Pest Control."" The responsible agency is typically the NYC Department of Health and Mental Hygiene (DOHMH), which handles pest-related complaints.
+
+Historically, pest control complaints are less frequent than high-volume issues like illegal parking, but they are important for public health. Response times can vary, with some cases resolved quickly and others taking longer depending on severity and resource availability.
+
+Next steps:
+- You can report the roach problem to 311 by selecting the ""Rodent/Pest Control"" category.
+- Provide details about the location and severity to help prioritize the response.
+- Meanwhile, maintain cleanliness and seal food sources to reduce attraction.
+
+Please note, this prototype does not submit official 311 requests or track live status. For urgent health hazards or if you suspect a severe infestation affecting safety, consider contacting DOHMH directly or your building management.
+
+If you face any immediate health emergencies, call 911."
+There are rodents around trash outside.,"You’ve noticed rodents around trash outside, which is a common concern related to sanitation and pest control. The likely 311 complaint category for this issue is ""Rodent,"" typically handled by the Department of Health and Mental Hygiene (DOHMH) or the Department of Sanitation (DSNY) depending on the exact nature of the problem.
+
+Historically, sanitation-related complaints, including those about trash and rodents, can have varied response times, sometimes taking several hours or more to address. The DSNY is responsible for trash collection and street cleanliness, which helps reduce rodent attractants. DOHMH handles rodent baiting and extermination efforts.
+
+Next practical steps:
+- You can file a 311 complaint under the ""Rodent"" category to report the issue officially.
+- Ensure that trash is securely bagged and placed in proper containers to minimize rodent attraction.
+- If you see rodents inside a building or immediate health hazards, consider contacting DOHMH directly.
+
+Please note, this prototype does not submit 311 requests or track live statuses. If you encounter an emergency or safety threat related to rodents or trash, call 911."
+Who handles pest complaints?,"Pest complaints in NYC typically fall under the category of ""UNSANITARY CONDITION,"" which had over 639,000 complaints historically. The responsible agency for these issues is usually the NYC Department of Health and Mental Hygiene (DOHMH), which handles rodent and pest control.
+
+Based on past data, unsanitary condition complaints are common and may have varied response times. For pest problems, practical next steps include:
+- Keeping food sealed and trash secured to reduce attraction.
+- Reporting the issue through the official NYC 311 website or app for DOHMH intervention.
+
+This prototype cannot submit official 311 requests or check live status. If you face an emergency related to pests causing immediate health hazards, please call 911."
+There is broken playground equipment.,"You reported broken playground equipment. This issue typically falls under the 311 complaint category ""Playground Equipment Repair"" or ""Parks Maintenance."" The responsible agency is usually the NYC Department of Parks & Recreation.
+
+Historically, complaints about playground equipment are less frequent than high-volume issues like illegal parking, but they are important for public safety and community well-being. Response times can vary, with some cases resolved quickly and others taking longer depending on workload and resource allocation.
+
+Next steps:
+- You can report the broken equipment to NYC Parks via the 311 website or app for official handling.
+- If the broken equipment poses an immediate safety hazard to children or others, avoid using it and consider alerting nearby adults.
+- For emergencies or injuries related to the equipment, call 911 immediately.
+
+Please note this prototype does not submit official 311 requests or track live status updates."
+A park bathroom is dirty.,"You mentioned that a park bathroom is dirty. This issue typically falls under the 311 complaint category ""Sanitation"" or ""Park Maintenance,"" and the responsible agency is usually the NYC Department of Parks & Recreation.
+
+Historically, sanitation-related complaints in parks are common and often addressed by routine cleaning schedules. Response times can vary, with some requests resolved quickly and others taking longer depending on workload and location.
+
+Next steps:
+- You can report the dirty park bathroom through the official NYC 311 website or app under ""Park Maintenance"" or ""Sanitation.""
+- Include the park name and bathroom location for faster service.
+- If the condition poses a health hazard or safety risk, consider calling 311 promptly.
+
+Please note, this prototype does not submit official 311 requests or track live status. For emergencies or urgent safety concerns, call 911 immediately."
+There is graffiti in the park.,"You reported graffiti in the park. This issue typically falls under the 311 complaint category ""Graffiti Removal."" The responsible agency is usually the NYC Department of Parks & Recreation or the NYC Department of Sanitation, depending on the location.
+
+Historically, graffiti complaints are common in public spaces like parks, and response times can vary. While median response times for 311 requests are around a few hours, some cases may take longer depending on workload and location.
+
+Next steps:
+- You can submit a 311 request online or via the NYC 311 app under ""Graffiti Removal.""
+- Provide the exact park name and location details to help the agency respond efficiently.
+- If the graffiti involves offensive or threatening content, mention that in your report.
+
+Please note, this prototype does not submit official 311 requests or track live status. For emergencies or safety threats, call 911 immediately."
+A tree branch fell in the street.,"You mentioned a tree branch fell in the street. This situation typically falls under the ""Tree Debris"" or ""Street Condition"" complaint categories, often handled by the Department of Parks & Recreation or the Department of Sanitation, depending on the location and severity.
+
+While the provided data does not include specific response times or complaint counts for fallen tree branches, similar street condition issues like potholes are usually addressed by the Department of Transportation (DOT), but tree debris is more often Parks or Sanitation.
+
+Practical next steps:
+- If the branch poses an immediate hazard to traffic or pedestrians, please call 911 for emergency assistance.
+- For non-emergency removal, you can submit a 311 request online or by phone under ""Tree Debris"" or ""Street Condition.""
+- Provide the exact location and any safety concerns to help prioritize the response.
+
+This prototype cannot submit official 311 requests or check live status but aims to guide you on the best course of action."
+There is a dead tree near my building.,"You mentioned a dead tree near your building. This issue typically falls under the 311 complaint category ""Tree Condition"" or ""Dead Tree Removal."" The responsible agency is usually the NYC Department of Parks & Recreation (NYC Parks), which manages street trees and public green spaces.
+
+Historically, requests about dead or hazardous trees are common in urban areas, and NYC Parks prioritizes removal based on safety risk and location. Response times can vary depending on workload and severity.
+
+Next steps:
+- You can submit a 311 request online or by phone specifying the location of the dead tree.
+- Include details about any safety concerns (e.g., risk of falling branches).
+- If the tree poses an immediate danger to people or property, call 911.
+
+Please note, this prototype cannot file official 311 requests or check live status. For emergencies, always call 911."
+I already filed a complaint. How do I check the status?,"You mentioned you already filed a complaint and want to check its status. This prototype cannot access live 311 request statuses or submit official requests. 
+
+To check the status of your existing 311 complaint, please visit the official NYC 311 website or use the 311 mobile app. There, you can enter your complaint number or other identifying details to track progress.
+
+If your issue involves a specific complaint type—like Illegal Parking, Noise, or Heat/Hot Water—knowing that can help when navigating the status system. For example, Illegal Parking complaints are very common and typically handled by the Department of Transportation.
+
+If your situation is urgent or involves safety, crime, fire, or medical emergencies, please call 911 immediately.
+
+For non-emergencies, using the official 311 channels is the best way to get updated information on your complaint."
+My 311 complaint was closed but nothing was fixed.,"It sounds like your 311 complaint was closed without the issue being resolved. While I can’t check the status of your specific request or reopen it, I can help explain what might be happening.
+
+From historical data, common complaints like Illegal Parking, Noise, or Heat/Hot Water often have high volumes and varying response times. Median response time is about 4.6 hours, but some cases take much longer, especially if the issue is complex or requires follow-up.
+
+If your complaint was closed but not fixed, it could be due to a misclassification, a premature closure, or the need for additional action by the responsible agency. The agency depends on the complaint type—for example, parking issues are handled by the Department of Transportation, noise complaints by the Police Department, and heat/hot water issues by the Housing Preservation & Development.
+
+Next steps you can take:
+- Review your original complaint type and confirm it matches your issue.
+- If unresolved, consider submitting a new 311 request with updated details.
+- For urgent safety or health hazards, call 911 immediately.
+
+Remember, this prototype does not submit or track official 311 requests. For official updates, please use the NYC 311 website or app."
+Why does my complaint say no action taken?,"Your complaint showing ""no action taken"" can happen for several reasons. Often, high-volume complaint types like Illegal Parking or Noise may receive no action if the issue is not verified or is outside agency jurisdiction. The responsible agency depends on the complaint type—for example, parking issues usually involve the Department of Transportation.
+
+Historical data shows many complaints are resolved quickly (median ~4.6 hours), but some take much longer or may not lead to action if the problem cannot be confirmed or is a low priority. Without specific details on your complaint, it’s hard to say exactly why no action was taken.
+
+Next steps:
+- Review your complaint details to confirm the issue and location.
+- If the problem persists or is urgent, consider submitting a new 311 request with clear, updated information.
+- For emergencies or safety threats, call 911 immediately.
+
+Please note this prototype does not submit or track official 311 requests."
+Can I reopen a closed 311 request?,"You cannot directly reopen a closed 311 request through the system. If your issue persists or was not resolved, the best step is to submit a new 311 request describing the ongoing problem. This helps ensure your concern is addressed with updated information.
+
+311 requests are typically handled by the relevant city agency based on the complaint type. Since reopening is not supported, submitting a new request is the practical way to continue follow-up.
+
+If your situation involves an emergency, safety threat, crime in progress, fire, or medical issue, please call 911 immediately.
+
+This prototype does not submit or check live 311 request statuses but aims to guide you on next steps."
+How long does it take to resolve a pothole complaint?,"You asked about the typical resolution time for pothole complaints in NYC.
+
+Pothole issues fall under the ""Street Condition"" complaint type, which is handled by the Department of Transportation (DOT). Historical data shows that some pothole complaints are resolved very quickly, sometimes the same day, but others can take longer—up to several days or more. Response times vary by borough and specific case details.
+
+The median response time across all complaint types is about 4.6 hours, but the upper range can be much longer. For potholes specifically, some cases close immediately, while others may take days, depending on severity and resource availability.
+
+Next steps:
+- You can report a pothole directly to NYC DOT via their website or 311.
+- For urgent safety hazards caused by potholes, consider contacting 311 promptly.
+- For emergencies or immediate danger, always call 911.
+
+This prototype does not submit official requests or track live status, so for updates on a specific complaint, please use official NYC 311 channels."
+There is a fire in my building.,"You reported a fire in your building. This is an emergency situation that requires immediate attention from fire and emergency services. Please call 911 right away to get help from the Fire Department and other first responders.
+
+This prototype cannot submit official 311 requests or check live status, and 311 is not the right channel for emergencies like fires. For your safety and the safety of others, dialing 911 is the fastest way to get assistance.
+
+Stay safe and evacuate if necessary while waiting for emergency responders."
+Someone is breaking into a car.,"Someone breaking into a car is a serious and immediate safety and crime issue. This situation likely falls under a police matter rather than a typical 311 complaint category like parking or noise.
+
+The responsible agency is the NYPD (New York Police Department). Since this is a crime in progress, you should call 911 immediately to report the break-in and get urgent police assistance.
+
+This prototype cannot submit official 311 requests or check live status. For emergencies involving crimes, always call 911 for the fastest response."
+There is a gas smell in my apartment.,"You mentioned a gas smell in your apartment. This is a potentially dangerous situation that could indicate a gas leak.
+
+The appropriate complaint category for this issue is typically ""Gas Leak"" or ""Gas Odor,"" which is handled by the utility company or the Fire Department. Since this is a safety hazard, it is critical to act immediately.
+
+**Important:** Do not use electrical switches, phones, or anything that could create a spark. If you smell gas, leave the premises immediately and call 911 to report the emergency. Do not wait for a 311 complaint or non-emergency service.
+
+This prototype cannot submit official 311 requests or check live status. For your safety, please call 911 right away to report the gas smell."
+A traffic light is out and cars are almost crashing.,"You reported a traffic light that is out and causing near crashes. This is a serious safety concern.
+
+The likely 311 complaint category is ""Traffic Signal Condition"" or ""Traffic Signal Malfunction."" The responsible agency is typically the NYC Department of Transportation (DOT).
+
+From historical data, response times can vary, but urgent traffic signal issues are prioritized due to public safety risks.
+
+Next steps:
+- If there is an immediate danger of crashes, please call 911 right away to report the hazard.
+- For non-emergency reporting, you can submit a 311 request to DOT to repair the traffic light.
+- Keep clear of the intersection if possible and alert other drivers to proceed with caution.
+
+Please note this prototype cannot submit official 311 requests or check live status. For emergencies, always call 911."
+A tree fell on a car and someone may be hurt.,"You reported that a tree fell on a car and someone may be hurt. This situation involves potential injury and a safety hazard.
+
+For emergencies involving injury or safety threats, such as someone possibly hurt by a fallen tree, you should call 911 immediately to get urgent medical and emergency assistance.
+
+For non-emergency follow-up, fallen trees blocking streets or damaging property are typically handled by NYC Parks or the Department of Transportation (DOT), depending on the location. However, since injury is involved, emergency responders must be contacted first.
+
+This prototype cannot submit official 311 requests or check live status. Please prioritize calling 911 for immediate help. After the emergency is addressed, you can report the fallen tree to 311 for cleanup and repair."
+My block is a mess. What should I report?,"It sounds like your block has multiple issues contributing to a messy environment. Common complaints in NYC often include illegal parking, litter, graffiti, or street maintenance problems.
+
+Based on historical data, illegal parking is the most frequently reported issue citywide, especially in Brooklyn, which might be relevant depending on your location. The responsible agency for parking violations is typically the NYC Department of Transportation (DOT) or the Police Department. For litter, graffiti, or street cleanliness, the Department of Sanitation (DSNY) is usually responsible.
+
+To help you report effectively:
+- Identify the specific issues (e.g., illegal parking, trash accumulation, graffiti).
+- Use the 311 system to file separate complaints for each issue to ensure proper routing.
+- For urgent safety hazards, call 911 immediately.
+
+This prototype does not submit official 311 requests or check live status, but you can visit NYC 311 online or call 311 to report your concerns. Providing clear details will help agencies respond more efficiently."
+Something smells bad outside.,"You mentioned a bad smell outside. This type of issue is often related to complaints about odors or sanitation concerns.
+
+The likely 311 complaint category could be ""Sanitation Condition"" or ""Odor,"" and the responsible agency is typically the NYC Department of Sanitation (DSNY).
+
+Historically, odor complaints can arise from garbage, sewage issues, or other environmental factors. Response times vary, but median times are around a few hours, though some cases may take longer.
+
+Next steps:
+- Check if the smell is coming from a specific source like garbage piles or construction.
+- If the smell poses a health risk or is very strong, you can file a 311 complaint online or by phone to DSNY.
+- If you suspect a gas leak or any immediate danger, call 911 immediately.
+
+Please note, this prototype does not submit official 311 requests or check live status."
+There is a problem with my building.,"You mentioned a problem with your building, but the details are unclear. Common building-related issues reported to 311 include illegal parking, noise complaints, or maintenance problems. The most frequent complaint type citywide is illegal parking, especially in Brooklyn, which may or may not relate to your building.
+
+Since the evidence is limited, I recommend specifying the exact problem—such as structural issues, heating, noise, or safety concerns. This helps identify the right 311 complaint category and responsible agency, like the Department of Buildings or Housing Preservation and Development.
+
+If the problem involves an emergency, safety threat, crime in progress, fire, or medical issue, please call 911 immediately.
+
+For non-emergencies, you can file a detailed 311 complaint online or by phone to get official assistance. This prototype does not submit requests or check live status but can guide you on next steps."
+I need help with a city issue.,"Hello! It looks like you have a city issue but haven't specified the details yet. Based on historical data, the most common NYC 311 complaint is Illegal Parking, especially frequent in Brooklyn, which has the highest number of requests. Response times vary widely, with some cases resolved quickly and others taking much longer.
+
+To assist you better, could you please describe the specific problem you're experiencing? For example, is it related to parking, noise, sanitation, or another issue? This will help me suggest the likely 311 category and responsible agency, as well as practical next steps.
+
+Please note, this prototype does not submit official 311 requests or check live status. For emergencies or safety threats, call 911 immediately."
+I do not know what category my complaint fits into.,"You mentioned you’re unsure which category fits your complaint. Common NYC 311 complaint types include Illegal Parking, Noise (Residential or Street/Sidewalk), Heat/Hot Water issues, Blocked Driveway, Unsanitary Conditions, and requests like Large Bulky Item Collection or Street Condition problems.
+
+If your issue involves parking violations, Illegal Parking is likely the right category. For noise disturbances, choose between Residential Noise, Street/Sidewalk Noise, or Vehicle Noise depending on the source. Heating or hot water problems fall under HEAT/HOT WATER. If your concern is about cleanliness or sanitation, UNSANITARY CONDITION applies.
+
+The responsible agency depends on the complaint type—for example, the Department of Transportation handles parking and street conditions, while the Department of Environmental Protection or Housing Preservation and Development may handle water and heat issues.
+
+Since this is a prototype, it cannot submit official 311 requests or check live statuses. For emergencies, safety threats, crimes in progress, fire, or medical issues, please call 911 immediately.
+
+If you provide more details about your issue, I can help suggest a more specific category and next steps."
+What are the most common 311 complaints?,"The most common 311 complaints in NYC are:
+
+1. Illegal Parking (about 2.6 million reports)
+2. Noise - Residential (about 2.4 million)
+3. Heat/Hot Water issues (about 1.6 million)
+4. Noise - Street/Sidewalk (about 1 million)
+5. Blocked Driveway (about 1 million)
+
+These complaint types represent high volumes of requests and are often good starting points for operational improvements. The responsible agencies vary by issue—for example, illegal parking is typically handled by the NYC Department of Transportation, while heat/hot water complaints go to the Housing Preservation and Development agency.
+
+If you have a specific issue, you can file a 311 complaint through official channels, but this prototype does not submit requests or check live statuses. For emergencies or safety threats, please call 911 immediately."
+Which complaint types take the longest to resolve?,"Based on the project data, the median response time for 311 complaints is about 4.6 hours, but the 95th percentile response time is much longer—around 236 hours—indicating that a subset of cases experience significant delays. While the data does not specify which complaint types take the longest to resolve, the wide gap suggests some complex or resource-intensive issues cause extended resolution times.
+
+Common complaint types include Illegal Parking, Noise (Residential and Street/Sidewalk), HEAT/HOT WATER, and Blocked Driveway. Typically, issues like HEAT/HOT WATER or UNSANITARY CONDITION may take longer due to the need for inspections or coordination with multiple agencies such as the Department of Environmental Protection or Housing Preservation and Development.
+
+For practical next steps, if you have a specific complaint type in mind, you can check NYC 311’s website for typical response times or contact the relevant agency directly. This prototype does not submit official requests or track live status.
+
+If your issue is urgent, involves safety, crime in progress, fire, or medical emergencies, please call 911 immediately."
+Which borough has the most complaints?,"The borough with the most 311 complaints is Brooklyn, with over 6.2 million records in the dataset. This aligns with the high volume of requests seen in Brooklyn compared to other boroughs like Queens, Bronx, Manhattan, and Staten Island.
+
+The most common complaint type overall is Illegal Parking, which may contribute significantly to the high complaint volume in Brooklyn.
+
+For practical next steps, if you have a specific issue in Brooklyn or another borough, identifying the complaint type can help direct you to the right agency or service. For example, illegal parking issues typically involve the Department of Transportation.
+
+Please note this prototype does not submit official 311 requests or check live request status. For emergencies or safety threats, call 911 immediately."
+What patterns do you see in service request delays?,"The data shows that while the median response time for NYC 311 service requests is about 4.6 hours, there is a significant delay for some cases, with the 95th percentile response time reaching nearly 236 hours. This indicates that most requests are handled relatively quickly, but a smaller subset experience long delays.
+
+Illegal Parking is the most common complaint type, which likely contributes to the volume and potential delays. Brooklyn has the highest number of requests, suggesting that resource allocation there is especially important.
+
+These patterns suggest that delays are not uniform but concentrated in certain cases, possibly due to complexity or resource constraints. Predictive models like logistic regression and random forest have been developed to identify requests at risk of delayed resolution, which can help prioritize responses.
+
+For practical next steps, if you have a specific complaint, you can check the 311 website or app for status updates or estimated response times. For urgent safety issues or emergencies, always call 911.
+
+Please note this prototype does not submit official 311 requests or track live statuses."
+What should leadership focus on based on the analysis?,"Based on the analysis, leadership should focus on addressing the high volume of Illegal Parking complaints, as they represent the largest category with over 2.6 million records. Since Brooklyn has the highest number of requests, allocating resources there could improve service efficiency. The wide gap between median and 95th percentile response times indicates that some cases experience significant delays, so targeting those outliers may reduce overall wait times. Additionally, leveraging predictive models like the logistic regression for same-day closure and random forest for response time estimation can help prioritize and manage requests more effectively. 
+
+Practical next steps include prioritizing operational improvements for Illegal Parking complaints, especially in Brooklyn, and using predictive tools to identify cases at risk of delayed resolution. This prototype does not submit official 311 requests or check live status. For emergencies or safety threats, please call 911."
