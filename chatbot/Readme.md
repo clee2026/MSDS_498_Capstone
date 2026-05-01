@@ -1,12 +1,12 @@
-# NYC 311 Deflection Chatbot
+# NYC 311 GenAI Call-Deflection Chatbot (Enhanced)
 
 ## Overview
 
-This project is a prototype chatbot designed to help reduce the number of calls to NYC 311 by automatically answering common city service questions.
+This project is an enhanced prototype chatbot designed to help reduce the number of calls to NYC 311 by automatically answering common city service questions.
 
-Instead of calling 311, users can ask questions such as noise complaints, missed trash pickup, or housing issues, and the chatbot provides guidance on what to do next. The goal is not to replace 311, but to handle simple and repetitive requests so that human operators can focus on more complex cases.
+Instead of calling 311, users can ask questions such as noise complaints, missed trash pickup, or housing issues, and the chatbot provides guidance on what to do next. The system goes beyond simple Q&A by classifying user intent, applying decision logic, and recommending appropriate actions.
 
-This chatbot also demonstrates how AI and public data can be combined to support operational decision making.
+The goal is not to replace 311, but to handle simple and repetitive requests so that human operators can focus on more complex or urgent cases.
 
 ---
 
@@ -15,33 +15,55 @@ This chatbot also demonstrates how AI and public data can be combined to support
 The main purpose of this chatbot is to:
 
 - Reduce unnecessary 311 calls by answering common questions  
-- Help users understand which agency handles their issue  
-- Provide next steps such as reporting online, calling 311, or escalating to 911  
-- Demonstrate how AI can be applied to real world city service data  
+- Classify user issues into actionable categories  
+- Provide clear next steps (report online, call 311, or escalate to 911)  
+- Demonstrate how AI and data can support operational decision making  
+- Evaluate chatbot performance using structured outputs  
 
-This chatbot shows how data analysis and AI can be used to improve service efficiency and user experience.
+This project shows how data analysis, AI, and rule-based logic can be combined to improve service efficiency and user experience.
 
 ---
 
-## How It Works 
+## How It Works
 
-The chatbot works in three main steps:
+The chatbot operates as a hybrid system combining AI, data, and decision logic:
 
 1. The user asks a question  
-2. The system interprets the question and identifies the type of issue (noise, heat, trash, etc.)  
-3. The chatbot generates a response with guidance and recommended actions  
-
-In some cases, the chatbot can also pull live or recent data from NYC 311 to provide more context.
+2. The system classifies the intent (noise, heat, parking, emergency, etc.)  
+3. A confidence score is assigned based on how clearly the issue is identified  
+4. Escalation logic determines whether the chatbot should respond or direct the user to 311 or 911  
+5. The chatbot generates a response using:
+   - OpenAI (natural language generation)  
+   - NYC 311 data context (local files or API)  
+6. The response includes:
+   - Likely issue type  
+   - Responsible agency  
+   - Recommended next steps  
 
 ---
 
 ## Key Features
 
-- Handles common NYC 311 complaint types  
-- Provides recommended actions (report, wait, escalate)  
-- Includes basic escalation logic (for emergencies vs non-emergencies)  
-- Can run with or without live API data  
-- Generates a transcript of questions and answers for evaluation  
+- Intent classification for common NYC 311 issues  
+- Confidence scoring to handle uncertain or unclear requests  
+- Escalation logic for emergencies and high-risk situations  
+- Integration with NYC 311 data (local and optional live API)  
+- Structured responses including issue, agency, and action  
+- Transcript generation for testing and validation  
+- Evaluation table for performance measurement  
+
+---
+
+## System Architecture
+
+The chatbot uses a hybrid architecture:
+
+- **OpenAI API** → Generates responses  
+- **Local Data (Parquet/CSV)** -> Provides structured context and patterns  
+- **NYC Open Data API (optional)** -> Adds live or recent examples  
+- **Rule-Based Logic** -> Controls intent classification, confidence, and escalation  
+
+This design allows the system to remain stable, explainable, and adaptable.
 
 ---
 
@@ -52,21 +74,23 @@ In some cases, the chatbot can also pull live or recent data from NYC 311 to pro
 Main file that runs the chatbot.
 
 Contains:
-- Data loading  
-- API integration  
-- Chatbot logic  
-- Demo transcript generation  
+- Data loading and preprocessing  
+- API helper functions  
+- Intent classification and decision logic  
+- Chatbot response generation  
+- Demo transcript and evaluation outputs  
 
 ---
 
-### 2. NYC 311 Data File (Optional but Recommended)
+### 2. NYC 311 Data Files (Recommended)
 
 Format:
 - Parquet or CSV  
 
 Used for:
-- Understanding common complaint types  
+- Identifying common complaint types  
 - Supporting responses with real data patterns  
+- Reducing reliance on live API calls  
 
 Example fields:
 - Complaint Type  
@@ -78,17 +102,21 @@ Example fields:
 
 ---
 
-### 3. Output File
+### 3. Output Files
 
 Generated by the notebook:
-- nyc311_genai_chatbot_demo_transcript.csv 
-- nyc311_genai_chatbot_demo_transcript.xlsx 
 
-This file contains:
+- `nyc311_genai_chatbot_demo_transcript.csv`  
+- `nyc311_genai_chatbot_demo_transcript.xlsx`  
+- `nyc311_chatbot_evaluation.csv` (enhanced version)
+
+These files contain:
 - User questions  
 - Chatbot responses  
-
-This is useful for evaluation and demonstration.
+- Predicted intent  
+- Confidence scores  
+- Escalation flags  
+- Evaluation results (pass/review)
 
 ---
 
@@ -99,12 +127,13 @@ This is useful for evaluation and demonstration.
 Source: NYC 311 Service Requests dataset  
 
 Used for:
-- Retrieving real complaint data  
-- Supporting chatbot responses with live or recent information  
+- Retrieving recent complaint examples  
+- Supporting chatbot responses with real-world context  
 
 Important notes:
-- The API may time out if too many requests are made  
-- For large demos, it is recommended to turn off live API calls  
+- The API may time out under heavy usage  
+- Designed for small demo queries only  
+- Large-scale analysis should use local data instead  
 
 ---
 
