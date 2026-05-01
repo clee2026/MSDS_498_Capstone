@@ -58,7 +58,7 @@ The chatbot operates as a hybrid system combining AI, data, and decision logic:
 
 The chatbot uses a hybrid architecture:
 
-- **OpenAI API** → Generates responses  
+- **OpenAI API** -> Generates responses  
 - **Local Data (Parquet/CSV)** -> Provides structured context and patterns  
 - **NYC Open Data API (optional)** -> Adds live or recent examples  
 - **Rule-Based Logic** -> Controls intent classification, confidence, and escalation  
