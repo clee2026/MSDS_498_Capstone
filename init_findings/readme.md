@@ -207,6 +207,103 @@ Build models for:
 #### Final Summary
 - `top_findings_table.csv`
 
+## Notebook 4 - Operational Clustering + Trend Analysis
+
+### Purpose
+
+Notebook 4 answers:
+
+> What operational complaint environments exist, and how do they change over time?
+
+This step extends the supervised modeling by identifying:
+
+- recurring complaint hotspots
+- operational service segments
+- geographic workload concentration
+- response time trends
+- seasonal and recurring complaint behavior
+
+The goal is not simply clustering for machine learning purposes, but operational intelligence that management can use for planning and resource allocation.
+
+---
+
+### Key Tasks
+
+#### 1. Geographic Clustering
+
+Use complaint latitude and longitude to identify:
+
+- complaint hotspots
+- recurring operational regions
+- geographic service concentration
+
+#### 2. Operational Segmentation
+
+Group complaints by operational behavior using variables such as:
+
+- response time
+- same-day closure
+- complaint type
+- borough
+- repeat complaint behavior
+
+Clusters are translated into operational segment labels for report readability and management interpretation.
+
+#### 3. Repeat Complaint Proxy Analysis
+
+Create operational indicators for recurring complaint environments using:
+
+- complaint type
+- geographic proximity
+- recurring complaint patterns
+
+#### 4. Operational Trend Analysis
+
+Analyze trends across operational segments including:
+
+- complaint volume trends
+- response time trends
+- recurring complaint behavior
+- emerging hotspot growth
+- seasonal workload patterns
+
+---
+
+### Outputs
+
+#### Geographic Clustering Outputs
+- `geo_cluster_summary_report_ready.csv`
+- `geo_hotspot_top15_report_labels.png`
+
+#### Operational Segmentation Outputs
+- `operational_segment_summary_report_ready.csv`
+- `operational_segment_avg_response_time_report_labels.png`
+- `operational_segment_same_day_rate_report_labels.png`
+- `operational_segment_complaint_type_heatmap_report_labels.png`
+
+#### Trend Analysis Outputs
+- `trend_operational_segment_monthly_volume.csv`
+- `trend_operational_segment_avg_response_time.csv`
+- `trend_operational_segment_monthly_volume.png`
+- `trend_operational_segment_avg_response_time.png`
+- `top_trending_complaint_types.csv`
+- `emerging_hotspot_summary.csv`
+
+---
+
+### Important
+
+This step provides:
+
+- operational segmentation
+- geographic intelligence
+- recurring complaint analysis
+- management-focused trend analysis
+- seasonal preparedness insights
+- proactive planning support
+
+The clustering and trend analysis complements the supervised models by explaining how operational environments behave over time rather than only predicting outcomes.
+
 ---
 
 ### Important
