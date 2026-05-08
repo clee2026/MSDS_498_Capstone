@@ -1,0 +1,11 @@
+created_month_start,operational_segment_name,avg_response_time_hours,complaint_count
+2025-12-01,Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,2.304309388495561,6921
+2025-12-01,Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,196.5626133565499,9476
+2026-01-01,Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,2.309153109182936,9220
+2026-01-01,Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,216.33861026907678,11876
+2026-03-01,Segment A: Fast Closure Segment | Borough Office | BRONX,0.0,1
+2026-03-01,Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,2.2085052467301347,31967
+2026-03-01,Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,66.52939484468133,23264
+2026-04-01,Segment A: Fast Closure Segment | Borough Office | BRONX,0.0,2
+2026-04-01,Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,2.0779121173196318,5709
+2026-04-01,Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,19.582117433930094,1564

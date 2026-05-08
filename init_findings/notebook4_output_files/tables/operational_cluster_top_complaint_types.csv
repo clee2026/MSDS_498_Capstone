@@ -1,0 +1,260 @@
+operational_segment_name,complaint_type,count
+Segment A: Fast Closure Segment | Borough Office | BRONX,Borough Office,1
+Segment A: Fast Closure Segment | Borough Office | BRONX,Special Operations,1
+Segment A: Fast Closure Segment | Borough Office | BRONX,Trapping Pigeon,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Parking,16343
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - Residential,9074
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Blocked Driveway,4822
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - Street/Sidewalk,2752
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Condition,2573
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Abandoned Vehicle,2130
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,HEAT/HOT WATER,1800
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - Commercial,1354
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Traffic Signal Condition,1269
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - Vehicle,1143
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Water System,992
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Encampment,889
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Building/Use,708
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Non-Emergency Police Matter,686
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Vendor Enforcement,677
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Homeless Person Assistance,556
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Sewer,447
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,General Construction/Plumbing,430
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Dirty Condition,406
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Traffic,363
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Drug Activity,332
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Animal-Abuse,313
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Derelict Vehicles,297
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Panhandling,291
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Elevator,279
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Rodent,264
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Animal in a Park,175
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise,172
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Indoor Air Quality,154
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Obstruction,112
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Fireworks,100
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - House of Worship,99
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Noise - Park,94
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Snow or Ice,93
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Violation of Park Rules,81
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Water Conservation,75
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Drinking,74
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Boilers,70
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Special Projects Inspection Team (SPIT),70
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Real Time Enforcement,63
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Damaged Tree,61
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Residential Disposal Complaint,56
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,PLUMBING,53
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Plumbing,51
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Emergency Response Team (ERT),49
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Dumping,49
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Missed Collection,47
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Light Condition,44
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Unsanitary Animal Pvt Property,41
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Graffiti,36
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,UNSANITARY CONDITION,35
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,PAINT/PLASTER,33
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Urinating in Public,33
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Bike/Roller/Skate,32
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,GENERAL,29
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Unsanitary Pigeon Condition,29
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Lost Property,27
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,ELECTRIC,26
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Lead,25
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Sweeping Complaint,25
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Highway Condition,23
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Unleashed Dog,22
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Hazardous Materials,21
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Maintenance or Facility,21
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Air Quality,18
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Industrial Waste,18
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Commercial Disposal Complaint,17
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Food Poisoning,17
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Asbestos,16
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Tree Damage,14
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Overgrown Tree/Branches,14
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Sidewalk Condition,14
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,DOOR/WINDOW,13
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Investigations and Discipline (IAD),13
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Dead Animal,12
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Sign - Missing,12
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,WATER LEAK,12
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,FLOORING/STAIRS,10
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,APPLIANCE,9
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Electrical,9
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Sign - Damaged,9
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,BEST/Site Safety,7
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Animal Kept as Pet,7
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Mold,7
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,SAFETY,7
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Animal Facility - No Permit,5
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Consumer Complaint,4
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Dead/Dying Tree,4
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Sanitation Worker or Vehicle Complaint,4
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Street Sign - Dangling,4
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Bus Stop Shelter Complaint,3
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Disorderly Youth,3
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Ferry Complaint,3
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Scaffold Safety,3
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Water Quality,3
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Beach/Pool/Sauna Complaint,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Bike Rack,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Bridge Condition,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Broken Parking Meter,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Dept of Investigations,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Dumpster Complaint,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Litter Basket Request,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Pet Sale,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Plant,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Posting Advertisement,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,School Maintenance,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Standing Water,2
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Curb Condition,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,ELEVATOR,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Illegal Posting,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Litter Basket Complaint,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Lot Condition,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Mosquitoes,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,New Tree Request,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Root/Sewer/Sidewalk Condition,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Special Natural Area District (SNAD),1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Unsanitary Animal Facility,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Wayfinding,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Wood Pile Remaining,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,HEAT/HOT WATER,12558
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Condition,2666
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Illegal Parking,2062
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,UNSANITARY CONDITION,1975
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - Residential,1657
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Dirty Condition,1497
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,PLUMBING,1466
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise,1319
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,PAINT/PLASTER,1270
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Illegal Dumping,961
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,DOOR/WINDOW,887
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Derelict Vehicles,852
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Missed Collection,810
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,General Construction/Plumbing,802
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,WATER LEAK,762
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Blocked Driveway,756
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Snow or Ice,683
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,ELECTRIC,607
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Water System,546
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,GENERAL,516
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Sidewalk Condition,495
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Elevator,489
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,FLOORING/STAIRS,474
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Light Condition,454
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - Street/Sidewalk,453
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Traffic Signal Condition,437
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Obstruction,399
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Consumer Complaint,394
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,APPLIANCE,351
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Damaged Tree,348
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - Commercial,327
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Residential Disposal Complaint,306
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Building/Use,305
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Highway Condition,270
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Homeless Person Assistance,268
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Sewer,265
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Lead,261
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Abandoned Vehicle,252
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Dead Animal,242
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,SAFETY,236
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Rodent,198
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Encampment,187
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Indoor Air Quality,186
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Graffiti,185
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Lost Property,174
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Sweeping Complaint,169
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Maintenance or Facility,166
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Air Quality,156
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - Vehicle,153
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Sign - Dangling,149
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Illegal Posting,148
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Sign - Damaged,135
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Real Time Enforcement,129
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Food Establishment,122
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Overgrown Tree/Branches,117
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Smoking or Vaping,110
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Illegal Tree Damage,89
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Curb Condition,88
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Dead/Dying Tree,85
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Street Sign - Missing,83
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Emergency Response Team (ERT),81
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Electrical,78
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Sanitation Worker or Vehicle Complaint,78
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Special Projects Inspection Team (SPIT),78
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Litter Basket Request,73
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Broken Parking Meter,71
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Abandoned Bike,63
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Non-Emergency Police Matter,63
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Boilers,61
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Water Conservation,61
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Dumpster Complaint,56
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,For Hire Vehicle Complaint,56
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Food Poisoning,49
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Non-Residential Heat,48
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Animal-Abuse,44
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Plumbing,43
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Water Quality,41
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Cannabis Retailer,39
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Day Care,38
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bus Stop Shelter Complaint,29
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,ELEVATOR,25
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Litter Basket Complaint,24
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Root/Sewer/Sidewalk Condition,24
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Drug Activity,21
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Outdoor Dining,20
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Unsanitary Animal Pvt Property,20
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Illegal Fireworks,19
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Indoor Sewage,18
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Mobile Food Vendor,18
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Animal in a Park,17
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Asbestos,17
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,School Maintenance,17
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Taxi Complaint,17
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - Park,16
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,New Tree Request,15
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Wood Pile Remaining,15
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Investigations and Discipline (IAD),14
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Lot Condition,12
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Panhandling,12
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Unsanitary Pigeon Condition,11
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,BEST/Site Safety,10
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Green Taxi Complaint,10
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Ferry Inquiry,8
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Industrial Waste,8
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,LinkNYC,8
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Mold,8
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bike Rack,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bike/Roller/Skate,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bus Stop Shelter Placement,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Commercial Disposal Complaint,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Drinking,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,E-Scooter,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,OUTSIDE BUILDING,7
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Traffic,6
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bridge Condition,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Drinking Water,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Noise - House of Worship,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Unleashed Dog,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Urinating in Public,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Vendor Enforcement,5
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Bench,4
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Public Toilet,4
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Beach/Pool/Sauna Complaint,3
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Hazardous Materials,3
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Tattooing,3
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Disorderly Youth,2
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Ferry Complaint,2
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Taxi Compliment,2
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Uprooted Stump,2
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Violation of Park Rules,2
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Cooling Tower,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Dept of Investigations,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Highway Sign - Damaged,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Institution Disposal Complaint,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Municipal Parking Facility,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Scaffold Safety,1
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Taxi Report,1

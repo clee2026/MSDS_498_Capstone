@@ -1,0 +1,21 @@
+filename,report_use
+plots/operational_segment_avg_response_time_report_labels.png,Shows which operational segments have the longest average response time. Use in the results section to discuss operational strain.
+plots/operational_segment_same_day_rate_report_labels.png,Shows same-day closure differences across meaningful operational segments. Use to connect clustering with the Notebook 3 classification target.
+plots/operational_segment_repeat_proxy_rate_report_labels.png,Shows which operational segments have higher recurring complaint behavior. Use for management recommendations.
+plots/operational_segment_complaint_type_heatmap_report_labels.png,Shows the complaint type composition of each segment. Use to explain what each segment represents.
+plots/operational_segment_pca_scatter_report_labels.png,Shows how complaints separate into operational segments in reduced feature space. Use as the main clustering methodology figure.
+plots/geo_hotspot_top15_report_labels.png,Shows the highest volume geographic hotspots with report-ready labels. Use for geographic operational findings.
+plots/geo_hotspot_repeat_proxy_report_labels.png,Shows repeat complaint proxy rates among top geographic hotspots. Use for recurring service demand discussion.
+plots/geo_dbscan_scatter.png,Shows the geographic distribution of DBSCAN hotspot clusters. Use as a technical geographic clustering figure.
+tables/operational_segment_summary_report_ready.csv,Main table for describing each operational segment with management meaning.
+tables/notebook4_management_findings_table.csv,Main management findings table with narrative-ready findings.
+tables/geo_cluster_summary_report_ready.csv,"Main geographic hotspot table with hotspot labels, complaint counts, repeat proxy rates, and management meaning."
+plots/trend_operational_segment_monthly_volume.png,Shows which operational segments are increasing or decreasing in complaint volume over time. Use for management trend analysis.
+plots/trend_operational_segment_avg_response_time.png,Shows whether response times are improving or worsening across the largest operational segments.
+plots/trend_operational_segment_repeat_proxy_rate.png,Shows whether recurring complaint behavior is increasing or decreasing across operational segments.
+plots/trend_top_complaint_type_growth.png,Shows which complaint types increased most in the latest three months compared with the prior three months.
+plots/trend_emerging_geo_hotspot_growth.png,Shows which geographic hotspots are emerging or growing in complaint volume.
+tables/trend_management_findings_summary.csv,Main trend findings table with management interpretation.
+tables/trend_operational_segment_growth_summary.csv,Table comparing latest three months with the prior three months by operational segment.
+tables/trend_complaint_type_growth_summary.csv,Table comparing latest three months with the prior three months by complaint type.
+tables/trend_emerging_geo_hotspot_growth.csv,Table comparing latest three months with the prior three months by geographic hotspot.

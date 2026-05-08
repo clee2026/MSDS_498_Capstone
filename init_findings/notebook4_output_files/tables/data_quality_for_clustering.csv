@@ -1,0 +1,11 @@
+column,present,missing_rate,dtype
+complaint_type,True,0.0,string
+borough,True,0.0,string
+agency,True,0.0,string
+response_time_hours,True,0.14922,float64
+latitude,True,0.0,string
+longitude,True,0.0,string
+created_date,True,0.0,datetime64[ns]
+closed_date,True,0.14922,datetime64[ns]
+closed_same_day_flag,True,0.0,int64
+repeat_complaint_flag,True,0.0,int64

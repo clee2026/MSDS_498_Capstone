@@ -1,0 +1,37 @@
+{
+  "notebook": "Notebook 4: NYC 311 Clustering and Operational Segmentation, Report Ready Version",
+  "run_timestamp": "2026-05-08T10:51:01.264023",
+  "input_parquet": "/content/notebook2_extracted_for_notebook4/notebook2_ouput_files/analysis_ready_sample.parquet",
+  "input_rows": 150000,
+  "prepared_rows": 127611,
+  "geo_rows_used": 25000,
+  "geo_clusters_found_excluding_noise": 39,
+  "operational_rows_used": 100000,
+  "selected_operational_segment_count": 3,
+  "main_report_ready_tables": [
+    "tables/operational_segment_summary_report_ready.csv",
+    "tables/notebook4_management_findings_table.csv",
+    "tables/geo_cluster_summary_report_ready.csv",
+    "report_ready/report_figure_and_table_inventory.csv",
+    "tables/trend_management_findings_summary.csv",
+    "tables/trend_operational_segment_growth_summary.csv",
+    "tables/trend_complaint_type_growth_summary.csv",
+    "tables/trend_emerging_geo_hotspot_growth.csv"
+  ],
+  "main_report_ready_plots": [
+    "plots/operational_segment_avg_response_time_report_labels.png",
+    "plots/operational_segment_same_day_rate_report_labels.png",
+    "plots/operational_segment_repeat_proxy_rate_report_labels.png",
+    "plots/operational_segment_complaint_type_heatmap_report_labels.png",
+    "plots/operational_segment_pca_scatter_report_labels.png",
+    "plots/geo_hotspot_top15_report_labels.png",
+    "plots/geo_hotspot_repeat_proxy_report_labels.png",
+    "plots/geo_dbscan_scatter.png",
+    "plots/trend_operational_segment_monthly_volume.png",
+    "plots/trend_operational_segment_avg_response_time.png",
+    "plots/trend_operational_segment_repeat_proxy_rate.png",
+    "plots/trend_top_complaint_type_growth.png",
+    "plots/trend_emerging_geo_hotspot_growth.png"
+  ],
+  "output_directory": "/content/notebook4_clustering_outputs"
+}

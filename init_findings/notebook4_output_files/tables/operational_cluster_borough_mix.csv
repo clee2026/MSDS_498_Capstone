@@ -1,0 +1,16 @@
+operational_segment_name,borough,count
+Segment A: Fast Closure Segment | Borough Office | BRONX,BRONX,1
+Segment A: Fast Closure Segment | Borough Office | BRONX,MANHATTAN,1
+Segment A: Fast Closure Segment | Borough Office | BRONX,QUEENS,1
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,BROOKLYN,16394
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,QUEENS,16000
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,BRONX,9739
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,MANHATTAN,9619
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,STATEN ISLAND,2037
+Segment B: High Recurrence / High Volume Segment | Illegal Parking | BROOKLYN,Unspecified,28
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,BROOKLYN,14090
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,BRONX,10794
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,QUEENS,10157
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,MANHATTAN,9211
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,STATEN ISLAND,1888
+Segment C: Long Response / Low Closure Segment | HEAT/HOT WATER | BROOKLYN,Unspecified,40
