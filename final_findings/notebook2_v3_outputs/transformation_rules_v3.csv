@@ -1,0 +1,7 @@
+step,description
+representative_sampling,Sampled across all parquet row groups instead of first-N rows.
+response_time_hours,closed_date minus created_date in hours; negative values set to missing.
+closed_same_day_flag,1 when created_date and closed_date are the same calendar day.
+delay_risk_48h_flag,1 when response_time_hours exceeds 48 hours.
+repeat_complaint_proxy,1 when complaint_type + borough + geography cell + month appears at least 3 times in full-dataset aggregate.
+response_time_hours_capped_p99,Response time capped at the sample 99th percentile for regression stability.
