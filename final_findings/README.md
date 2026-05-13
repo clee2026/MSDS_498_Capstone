@@ -304,6 +304,7 @@ Additional operational filtering logic ensures:
 | `notebook2_v3_manifest.json`           | Notebook level execution metadata                |
 
 ---
+*/ Not stores in the repository due to size limit
 
 ## Operational Value
 
@@ -802,8 +803,7 @@ project_root/
 ├── notebook3_v3_outputs/
 ├── notebook4_v3_outputs/
 │
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
