@@ -1,0 +1,3 @@
+operational_segment,operational_units,total_sample_requests,avg_response_hours,median_response_hours,p90_response_hours,avg_same_day_rate,avg_repeat_proxy_rate,segment_name
+0,357,468770,523.9723448658383,190.2695171957672,1365.8627279800812,0.32874261421276907,0.3379281135803373,High-volume fast-moving workload
+1,17,7501,13507.763587063671,10190.346707516339,31091.90547222222,0.004427321551631654,0.333075666395445,Long-duration service burden

@@ -1,0 +1,10 @@
+{
+  "run_timestamp": "20260512_112335",
+  "input_analysis_ready_path": "/content/notebook2_v3_outputs_extracted/analysis_ready_sample_v3.parquet",
+  "output_dir": "/content/notebook4_v3_outputs",
+  "selected_k": 2,
+  "min_cluster_records_for_report": 100,
+  "unique_months_in_sample": 76,
+  "trend_warning": "Trend sample includes 76 months. Seasonal claims are more supportable.",
+  "important_note": "Notebook 4 v3 uses corrected repeat proxy and excludes tiny operational units from reportable segment conclusions."
+}

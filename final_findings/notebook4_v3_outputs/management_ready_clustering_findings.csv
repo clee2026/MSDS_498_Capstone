@@ -1,0 +1,3 @@
+segment_name,sample_requests,avg_response_hours,same_day_rate,repeat_proxy_rate,management_use,trend_warning
+High-volume fast-moving workload,468770,523.97,0.329,0.338,Use this segment to separate fast-moving high-volume workload from long-duration or recurring operational burden.,Trend sample includes 76 months. Seasonal claims are more supportable.
+Long-duration service burden,7501,13507.76,0.004,0.333,Use this segment to separate fast-moving high-volume workload from long-duration or recurring operational burden.,Trend sample includes 76 months. Seasonal claims are more supportable.
