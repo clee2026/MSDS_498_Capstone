@@ -1,0 +1,5 @@
+finding_area,finding
+classification,Best delay-risk model by F1 was logistic_regression_balanced.
+regression,Best response-time regression model by RMSE was random_forest_regressor.
+target,"The main classification target is delay_risk_48h_flag, not same-day closure."
+operations,Threshold table should be used to choose a management operating point based on recall versus precision.

@@ -1,0 +1,10 @@
+{
+  "run_timestamp": "20260512_104700",
+  "input_model_ready_path": "/content/notebook2_v3_outputs/model_ready_sample_v3.parquet",
+  "output_dir": "/content/notebook3_v3_outputs",
+  "class_target": "delay_risk_48h_flag",
+  "regression_target": "response_time_hours_capped_p99",
+  "best_class_model_by_f1": "logistic_regression_balanced",
+  "best_regression_model_by_rmse": "random_forest_regressor",
+  "important_note": "Notebook 3 v3 uses a true delay-risk target and final-report-ready metrics."
+}

@@ -1,0 +1,4 @@
+model,mae_hours,rmse_hours,r2,target
+random_forest_regressor,276.0575913033017,948.3929553984414,0.6129166137297901,response_time_hours_capped_p99
+ridge_regression,371.9819168436322,1077.1067457336042,0.5007186032957393,response_time_hours_capped_p99
+dummy_median,358.61603694685584,1564.6016321314592,-0.05350220943641415,response_time_hours_capped_p99
