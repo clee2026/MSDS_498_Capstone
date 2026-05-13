@@ -789,7 +789,7 @@ The pipeline focuses heavily on:
 
 ---
 
-## Suggested Repository Structure
+## Repository Structure
 
 ```text
 project_root/
