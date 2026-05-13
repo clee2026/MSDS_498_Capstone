@@ -295,9 +295,9 @@ Additional operational filtering logic ensures:
 
 | Output File                            | Description                                      |
 | -------------------------------------- | ------------------------------------------------ |
-| `analysis_ready_sample_v3.parquet`     | Conditioned dataset for operational analytics    |
-| `model_ready_sample_v3.parquet`        | Modeling optimized dataset                       |
-| `full_dataset_repeat_proxy_counts.csv` | Full dataset repeat complaint proxy summary      |
+| `*analysis_ready_sample_v3.parquet`     | Conditioned dataset for operational analytics    |
+| `*model_ready_sample_v3.parquet`        | Modeling optimized dataset                       |
+| `*full_dataset_repeat_proxy_counts.csv` | Full dataset repeat complaint proxy summary      |
 | `repeat_proxy_sample_summary.csv`      | Repeat complaint sample analysis                 |
 | `final_model_field_list_v3.csv`        | Final selected modeling fields                   |
 | `transformation_rules_v3.csv`          | Documented transformation and conditioning rules |
@@ -672,7 +672,7 @@ Trend analysis helps identify:
 | `operational_units_with_segments.csv`               | Operational units with assigned segments            |
 | `management_ready_clustering_findings.csv`          | Executive ready clustering summary                  |
 | `k_selection_silhouette.csv`                        | Silhouette analysis metrics                         |
-| `model_sample_with_operational_segments_v3.parquet` | Modeling dataset enriched with operational segments |
+| `*model_sample_with_operational_segments_v3.parquet` | Modeling dataset enriched with operational segments |
 
 ---
 
