@@ -1,0 +1,11 @@
+{
+  "run_timestamp": "20260512_094829",
+  "source_parquet": "/content/drive/MyDrive/project_data/Capstone Course Project Files/Data/enriched_cleaned_nyc_311.parquet",
+  "output_dir": "/content/notebook1_v3_outputs",
+  "num_rows": 20448149,
+  "num_columns": 48,
+  "num_row_groups": 20,
+  "profile_sample_path": "/content/notebook1_v3_outputs/profile_sample_representative.parquet",
+  "missingness_profile_path": "/content/notebook1_v3_outputs/full_dataset_missingness_profile.csv",
+  "important_note": "Notebook 1 v3 scans the full parquet by row group and creates a representative sample across row groups. It does not use first-N-row sampling."
+}
