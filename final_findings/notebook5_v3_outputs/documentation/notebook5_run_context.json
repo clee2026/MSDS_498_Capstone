@@ -1,0 +1,64 @@
+{
+  "output_dir": "/content/notebook5_management_resource_allocation_outputs",
+  "input_files": {
+    "analysis_ready_parquet": "/content/analysis_ready_sample_v3.parquet",
+    "top_complaint_types": "/content/top_values_complaint_type.csv",
+    "classification_metrics": "/content/classification_metrics_delay_risk_48h.csv",
+    "geographic_hotspots": "/content/geographic_hotspot_summary.csv",
+    "monthly_trends": "/content/monthly_trend_by_operational_segment.csv",
+    "notebook1_manifest": "/content/run_manifest.json",
+    "notebook2_manifest": "/content/notebook2_v3_manifest.json",
+    "notebook3_manifest": "/content/notebook3_v3_manifest.json",
+    "notebook4_manifest": "/content/notebook4_v3_manifest.json"
+  },
+  "manifests": {
+    "notebook1_manifest": {
+      "run_timestamp": "20260512_094829",
+      "source_parquet": "/content/drive/MyDrive/project_data/Capstone Course Project Files/Data/enriched_cleaned_nyc_311.parquet",
+      "output_dir": "/content/notebook1_v3_outputs",
+      "num_rows": 20448149,
+      "num_columns": 48,
+      "num_row_groups": 20,
+      "profile_sample_path": "/content/notebook1_v3_outputs/profile_sample_representative.parquet",
+      "missingness_profile_path": "/content/notebook1_v3_outputs/full_dataset_missingness_profile.csv",
+      "important_note": "Notebook 1 v3 scans the full parquet by row group and creates a representative sample across row groups. It does not use first-N-row sampling."
+    },
+    "notebook2_manifest": {
+      "run_timestamp": "20260512_100933",
+      "source_parquet": "/content/drive/MyDrive/project_data/Capstone Course Project Files/Data/enriched_cleaned_nyc_311.parquet",
+      "analysis_ready_sample_path": "/content/notebook2_v3_outputs/analysis_ready_sample_v3.parquet",
+      "model_ready_sample_path": "/content/notebook2_v3_outputs/model_ready_sample_v3.parquet",
+      "repeat_counts_path": "/content/notebook2_v3_outputs/full_dataset_repeat_proxy_counts.csv",
+      "sample_rows": 500000,
+      "model_rows": 487454,
+      "sample_min_created_date": "2020-01-01 00:04:47",
+      "sample_max_created_date": "2026-04-28 01:12:01",
+      "delay_hours_threshold": 48,
+      "repeat_group_threshold": 3,
+      "important_note": "Notebook 2 v3 creates representative samples across row groups and uses corrected repeat proxy logic."
+    },
+    "notebook3_manifest": {
+      "run_timestamp": "20260512_104700",
+      "input_model_ready_path": "/content/notebook2_v3_outputs/model_ready_sample_v3.parquet",
+      "output_dir": "/content/notebook3_v3_outputs",
+      "class_target": "delay_risk_48h_flag",
+      "regression_target": "response_time_hours_capped_p99",
+      "best_class_model_by_f1": "logistic_regression_balanced",
+      "best_regression_model_by_rmse": "random_forest_regressor",
+      "important_note": "Notebook 3 v3 uses a true delay-risk target and final-report-ready metrics."
+    },
+    "notebook4_manifest": {
+      "run_timestamp": "20260513_135800",
+      "input_analysis_ready_path": "/content/notebook2_v3_outputs_extracted/analysis_ready_sample_v3.parquet",
+      "output_dir": "/content/notebook4_v3_outputs",
+      "selected_k": 2,
+      "min_cluster_records_for_report": 100,
+      "unique_months_in_sample": 76,
+      "trend_warning": "Trend sample includes 76 months. Seasonal claims are more supportable.",
+      "important_note": "Notebook 4 v3 uses corrected repeat proxy and excludes tiny operational units from reportable segment conclusions."
+    }
+  },
+  "rows_in_analysis_ready_sample": 500000,
+  "closed_response_records": 487454,
+  "response_time_p99_cap": 12369.487647222197
+}

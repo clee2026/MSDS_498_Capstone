@@ -1,0 +1,3 @@
+segment_name,months_observed,avg_monthly_requests,max_monthly_requests,avg_response_hours,avg_delay_48h_rate,avg_repeat_proxy_rate
+High-volume fast-moving workload,76,6168.026315789473,8968,264.22256755298025,0.31591231263546843,0.5340230296752096
+Long-duration service burden,76,98.69736842105263,239,11387.796677966577,0.9643746311880377,0.3974196720834542
