@@ -962,7 +962,6 @@ The notebook also copies the delay risk model metrics into the Notebook 5 output
 | `documentation/README.md` | Output folder documentation |
 | `documentation/output_inventory.csv` | Inventory of generated tables, plots, and documentation |
 | `documentation/notebook5_run_context.json` | Run context, input paths, manifests, row counts, and processing metadata |
-| `notebook5_management_resource_allocation_outputs.zip` | Packaged Notebook 5 output folder |
 
 ---
 
